@@ -36,59 +36,76 @@ Areal af en cirkelring: $$A=π* (R^2-r^2)$$
 ### Trekanter
 
 **Værdier i en trekant:**
+
 $A$ = areal
+
 $h$ = højden fra grundlinjen til den højeste overflade
+
 $g$ = grundlinjen
 
 **Formler:**
-Arealet af en trekant:
-$$A={1\over2 \\ *h*g}$$
-Pythagoras Læresætning:
-$$a^2 + b^2 = c^2$$
-Medianen af en trekant: 
-$$M_a=\frac{1}{2}*\sqrt{2*(b^2+c^2)-b^2}$$
 
+Arealet af en trekant: $$A={1\over2 \\ *h*g}$$
+
+Pythagoras Læresætning: $$a^2 + b^2 = c^2$$
+
+Medianen af en trekant: $$M_a=\frac{1}{2}*\sqrt{2*(b^2+c^2)-b^2}$$
 
 ### Firkanter
 
 **Værdier i en firkant:**
+
 $A$ = Areal
+
 $d$ = diagonaler mellem 2 punkter
+
 $g$ = grundlinjen
+
 $h$ = højden fra grundlinjen til toppen af firkanten. 
 
 **Formler:**
 
-Areal af en rombe:
-$$A={1\over2}*d1*d2$$
-Areal af et Parallellogram:
-$$A=g*h$$
-Areal af et trapez:
-$$A={1\over2}*h*(BC+AD)$$
+Areal af en rombe: $$A={1\over2}*d1*d2$$
+
+Areal af et Parallellogram: $$A=g*h$$
+
+Areal af et trapez: $$A={1\over2}*h*(BC+AD)$$
+
 ### Prismer
+
 **Værdier i en prisme:**
+
 $V$ = Volumen
+
 $G$ = grundflade
+
 $h$ = højden
 
 **Formler:**
-Rumfang af en prisme: 
-$$V=G*h$$
+Rumfang af en prisme: $$V=G*h$$
 
 ### Cylindere
+
 **Værdier i en Cylinder:**
+
 $V$ = Volumen 
+
 $A$ = Areal
+
 $r$ = radius
+
 $h$ = højde
 
-Rumfang af en cylinder:
-$$V=π*r2*h$$
-Overflade Areal af en cylinder:
-$$A=(2*π*r*h)+(2*π*r^2)$$
-Rumfang af et cylinderrør:
-$$V=π⋅(R^2-r^2)⋅h$$
+**Formler:**
+
+Rumfang af en cylinder: $$V=π*r2*h$$
+
+Overflade Areal af en cylinder: $$A=(2*π*r*h)+(2*π*r^2)$$
+
+Rumfang af et cylinderrør: $$V=π⋅(R^2-r^2)⋅h$$
+
 ### Pyramider
+
 **Værdier i en Pyramide:**
 $V$ = volumen
 $A$ = areal
@@ -106,7 +123,9 @@ $$A=12*h_s*3$$
   
 ### Kegler
 **Værdier i en kegle:**
+
 $r$ = radius
+
 $s$ = sidens længde, keglens højde
 
 
