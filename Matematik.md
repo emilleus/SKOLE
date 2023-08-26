@@ -105,23 +105,27 @@ Overflade Areal af en cylinder: $$A=(2*π*r*h)+(2*π*r^2)$$
 Rumfang af et cylinderrør: $$V=π⋅(R^2-r^2)⋅h$$
 
 ### Pyramider
+en lille note til pyramider er at man kan komme frem til $h_s$ ved at bruge pythagoras, ved at tage længden eller bredden af pyramidens bund, og dele den i to. 
 
 **Værdier i en Pyramide:**
+
 $V$ = volumen
+
 $A$ = areal
+
 $G$ = grundflade
+
 $h$ = højden
+
 $h_s$ = højden af siden af en pyramide
 
 **Formler:**
-Rumfang af en Pyramide:
-$$V={1\over3}* G * h$$
-Sideflade af en Pyramide:
-$$A=12*h_s*3$$
-* hs i en pyramide kan man finde ved hjælp af Pythagoras.
+Rumfang af en Pyramide: $$V={1\over3}* G * h$$
 
+Sideflade af en Pyramide: $$A=12*h_s*3$$
   
 ### Kegler
+
 **Værdier i en kegle:**
 
 $r$ = radius
@@ -130,35 +134,22 @@ $s$ = sidens længde, keglens højde
 
 
 **Formler:**
-Krumme overfladeareal af en kegle:
-$$A = π * r * s$$
-Fulde Overfladeareal af en kegle:
-$$A=π*r*s+r$$
-Rumfang af en kegle:
-$$V=\frac{1}{3}*π*r^2*h$$
+Krumme overfladeareal af en kegle: $$A = π * r * s$$
+
+Fulde Overfladeareal af en kegle: $$A=π*r*s+r$$
+
+Rumfang af en kegle: $$V=\frac{1}{3}*π*r^2*h$$
+
 ### Kugler
+
 **Værdier i en kugle:**
+
 $r$ = radius
 
 **Formler:**
 
-Overfladeareal af en kugle:
-$$A=4*π*r^2$$
-Rumfang af en kugle:
-$$V=\frac{4}{3}*π*r^3$$
-**Beregning af en masse:**
-
-  
-
-massefylde = kgm3ellergcm3
-
-  
-
-m = V \* φ
-
-
-
-
+Overfladeareal af en kugle: $$A=4*π*r^2$$
+Rumfang af en kugle: $$V=\frac{4}{3}*π*r^3$$
 
 ## Trigonometri
 ### Enhedscirklen
