@@ -288,6 +288,7 @@ $$\frac{20,91*sin(93,93)}{sin(61,64)}=\frac{c*sin(93,93)}{sin(93,93)}$$
 $$c=\frac{20,91*sin(93,93)}{sin(61,64)}= 23,7cm$$
 
 5. nu har vi alle værdierne i trekanten, og har dermed løst den.
+
 ### Cosinusrelationen
 
 **Bevis af cosinusrelationen**
@@ -357,6 +358,7 @@ $$B = 180-28,45-61,15=90,4°$$
 ### Sfærisk trigonometri
 
 ## Ligninger
+
 **Rækkefølgen for at løse ligninger:**
 
 1. Løse Parenteser først.
@@ -381,6 +383,64 @@ $$\frac{200*x}{200}=\frac{200*8}{100}$$
 $$x=\frac{200*8}{100}=16kr$$
 
 ### Ligninger med 2 ukendte
+når man skal løse en ligning med 2 ukendte værdier, så skal der være 2 forskellige ligninger. Der er 2 forskellige metoder til at løse en ligning med 2 ukendte: *Substitutionsmetoden*, og *Lige store coefficienter metoden*.
+
+#matematik 
+### 2 Ligninger med 2 ukendte:
+
+**Substitutionsmetoden:**
+1. Først, så har man 2 ligninger:
+$$6x-2y=12 \qquad 4x+8y=64$$
+
+2. så tager man den ene ligning, og isolerer enten x eller y.
+$$6x-2y=12$$
+$$6x=12+2y$$
+$$x=2+0,33y$$
+
+3. Derefter skal man tage resultatet, og bruge det i den anden ligning:
+$$4x+8y=64$$
+$$4(2+0,33y)+8y=64$$
+$$8 + 1,33y +8y=64$$
+$$8+9,33y=64$$
+$$9,33y=56$$
+$$y=6$$
+
+4. nu har vi så fundet værdien for den ene ukendte. nu skal vi indsætte den værdi i den anden formel, som vi ordnede tidligere.
+$$x = 2 + 0,33y$$
+$$x = 2 + 2$$
+$$x = 4$$
+
+5. på den måde har vi nu regnet både x og y værdierne ud.
+
+**Lige store koefficienters metode:**
+
+1. Først, så har man 2 ligninger:
+$$3x +4y-23=0 \qquad 2x+3y-4=0$$
+
+2. så skal man få en af de ukendte værdier til at være det samme på begge sider. Det gør man ved at gange hele ligningen med x værdien i den anden ligning.
+$$6x+8y-46=0 \qquad 6x-9y-12=0$$
+
+3. fordi x værdierne er det samme, så kan man fjerne dem fra begge ligninger.
+$$8y-46=0 \qquad -9y-12=0$$
+
+4. så skal man lave en samlet ligning ud af de 2 ligninger.
+$$8y-46=-9y-12$$
+
+5. så skal man ordne ligningen, så man finder værdien for den ukendte.
+$$17y-46=-12$$
+$$17=34$$
+$$\frac{17y}{17} = \frac{34}{17}$$
+$$y = 2$$
+
+6. så skal man tage den ukendte som vi nu kender, og indsætte den i en af de 2 originale ligninger, for at finde den sidste ukendte.
+$$3x +4(2)-23=0$$
+$$3x+8-23=0$$
+$$3x-15=0$$
+$$3x=15$$
+$$\frac{3x}{3}=\frac{15}{3}$$
+$$x=5$$
+
+7. og på den måde kender vi nu begge de ukendte værdier.
 
 ### Andengradsligninger
 
