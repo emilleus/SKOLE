@@ -229,11 +229,40 @@ $$B = 180-90-53,57=36,43°$$
 
 6. og nu har vi alle værdier i trekanten.
 
-### Sinusrelationerne
+### Sinusrelationen
 
 **Bevis af sinusrelationen**
 
+Først, relationen som vi vil regne os frem til:
+$$\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}$$
+
+1. først, så har vi en vilkårlig trekant, som er blevet delt på midten, så det skaber 2 retvinklede trekanter.
+
+2. derefter skal vi nu udtrykke h<sub>B</sub> på 2 forskellige måder, med de 2 trekanter. Vi starter med trekant A. Det gør vi sådan her:
+$$sin(A)=\frac{h}{c}$$
+$$sin(A)*c=\frac{h*c}{c}$$
+$$h=sin(A)*c$$
+
+3. nu skal vi gøre det samme, bare med den anden trekant. Det gør vi sådan her:
+$$sin(C)=\frac{h}{a}$$
+$$sinC*a=\frac{h*a}{a}$$
+$$h=sin(C)*a$$
+
+4. nu har vi 2 måder at udtrykke h<sub>B</sub> på. siden begge ligninger giver det samme resultat, kan man skrive det sådan her:
+$$sin(A)*c=sin(C)*a$$
+
+5. nu skal vi omskrive formlerne, så vi kan nå frem til målet. Det første dividere med sin(A) på begge sider, så vi isolerer c.
+$$\frac{sin(A)*c}{sin(A)}=\frac{sin(C)*a}{sin(A)}$$
+$$c=\frac{sin(C)*a}{sin(A)}$$
+
+6. nu skal vi så dividere med c på begge sider, så vi også isolerer a.
+$$\frac{c}{sin(C)}=\frac{sin(C)*a}{sin(A)*sin(C)*}$$
+
+$$\frac{c}{sin(C)}=\frac{a}{isn(A)}$$
+7. og på den måde er vi nu kommet frem til sinusrelationen.
+
 **Anvendelse af sinusrelationen**
+
 $$\frac{a}{sin(A)}=\frac{b}{sin(B)}$$
 $$\frac{sin(A)}{a}=\frac{sin(B)}{b}$$
 
@@ -259,17 +288,97 @@ $$\frac{20,91*sin(93,93)}{sin(61,64)}=\frac{c*sin(93,93)}{sin(93,93)}$$
 $$c=\frac{20,91*sin(93,93)}{sin(61,64)}= 23,7cm$$
 
 5. nu har vi alle værdierne i trekanten, og har dermed løst den.
-### Cosinusrelationerne
+### Cosinusrelationen
 
 **Bevis af cosinusrelationen**
 
+Først, relationen som vi vil nå frem til:
+$$c^2=a^2+b^2-2ab*cos(C)$$
+
+1. først, så har vi en vilkårlig trekant, som er blevet delt på midten, så det skaber 2 retvinklede trekanter.
+
+2. derefter skal vi nu udtrykke h på 2 forskellige måder, med de 2 trekanter. Vi starter med trekant A. Det gør vi sådan her:
+$$h^2=c^2-(b-x)^2$$
+
+3. nu skal vi gøre det samme, bare med den anden trekant. Det gør vi sådan her:
+$$h^2=a^2-x^2$$
+
+4. nu har vi 2 måder at udtrykke h på. siden begge ligninger giver det samme resultat, kan man skrive det sådan her:
+$$c^2-(b-x)^2=a^2-x^2$$
+
+5. nu skal vi bare omskrive formlerne, så vi kan nå frem til målet. Det gør vi ved at tilføje (b-x)<sup>2</sup> på begge sider, så vi får isoleret c<sup>2</sup>.
+$$c^2-(b-x)^2+(b-x)^2=a^2-x^2+(b-x)^2$$
+$$c^2=a^2-x^2+(b-x)^2$$
+
+6. nu skal vi ophæve parantesen, så den ikke er der mere. Det gør vi ved at gange (b-x) med hinanden, sådan her:
+$$c^2=a^2-x^2+b^2+x^2-2bx$$
+$$c^2=a^2+b^2-2bx$$
+
+7. nu skal vi have fjernet x fra ligningen. Den måde vi gør det på, er ved at tage udgangspunkt i cos(C), og omskrive den formel, så vi isolerer x. det gør vi sådan her:
+$$cos(C)=\frac{x}{a}$$
+$$cos(C)*a=\frac{x*a}{a}$$
+$$x=cos(C)*a$$
+
+8. nu har vi isoleret x. Nu skal vi indsætte hvad x er lig med ind i vores ligning fra før, så den kommer til at se sådan her ud:
+$$c^2=a^2+b^2-2ab*cos(C)$$
+
+9. og på den måde har vi nu også regnet os frem til cosinusrelationen.
+
 **Anvendelse af cosinusrelationen**
+
+$$a^2=b^2+c^2-2bc*cos(A)$$
+$$cos(A)=\frac{b^2+c^2-a^2}{2bc}$$
+
+Vi starter med en vilkårlig trekant, hvor vi kender 3 forskellige værdier. De værdier vi kender er alle de 3 sider af trekanten.
+
+* a = 15,74cm
+* b = 17,97cm
+* c = 8,56cm 
+
+1. først, så skal vi regne os frem til en af vinklerne. Jeg starter med vinkel C. det gør vi ved at indsætte vores værdier i cosinusrelationen, sådan her:
+$$cos(C)=\frac{15,74+17,97-8,56}{2*15,74*17,97}=0,8792$$
+
+2. nu har vi en cosinusværdi, men for at vi kan finde vinklen, så skal vi ”omvende” den. Det gør vi med cos<sup>-1</sup> funktionen, sådan her:
+$$cos^{-1}(0,8792)=28,45°$$
+
+3. nu har vi den første vinkel. Nu skal vi gøre det samme med en anden vinkel, i det her tilfælde vinkel A. det gør vi sådan her:
+$$cosA=\frac{17,97+8,56-15,74}{2*17,97*8,56} = 0,4825$$
+
+4. så skal vi gøre de samme som værdien til vinkel c, og ”omvende” den.
+$$cos^{-1}(0,4825)=61,15°$$
+
+5. nu har vi 2 vinkler, og vi kan nu finde den sidste vinkel ved at reducere de 2 vinkler fra vinkelsummen.
+$$B = 180-28,45-61,15=90,4°$$
+
+6. og nu har vi alle værdier i trekanten, og har løst trekanten.
 
 ### Trigonometriske Funktioner
 
 ### Sfærisk trigonometri
 
 ## Ligninger
+**Rækkefølgen for at løse ligninger:**
+
+1. Løse Parenteser først.
+2. Derefter potenser og rødder, fra venstre til højre.
+3. Derefter skal man gange og dividere, fra venstre til højre.
+4. Til sidst skal man plus og minus, fra venstre til højre.
+
+**Hvis der er parenteser:**
+Så skal man gange tallet foran ind i parentesen, f.eks.:
+$$3(x+6)-2 =2(x+9)$$
+$$3x+18-2=2x+18$$
+
+**Hvis der er brøker:**
+så skal man matche nævnerne (nederste tal), så de er det samme på begge sider af lighedstegnet, f.eks.:
+$$\frac{x+7}{3}-\frac{3x-7}{4}=\frac{x-1}{2}$$
+$$\frac{4x+28}{12}-\frac{9x-21}{12}=\frac{6x-6}{12}$$
+**Procenter i ligninger:**
+
+Eksempel på hvordan man regner 8% ud af 200kr:
+$$\frac{x}{200}=\frac{8}{100}$$
+$$\frac{200*x}{200}=\frac{200*8}{100}$$
+$$x=\frac{200*8}{100}=16kr$$
 
 ### Ligninger med 2 ukendte
 
