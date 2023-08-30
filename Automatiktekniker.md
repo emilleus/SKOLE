@@ -7,16 +7,17 @@ Emil Andreasen
 ## El-Teori
 ### Kredsløbsteori
 
+Kredsløbsteori dækker elektriske kredsløb, hvad de kan indeholde, og hvordan man arbejder med dem. Først, så skal man have nogle basis concepter på plads. 
+
+**Spænding** er styrken af elektriciteten. Jo større spændingen er, jo mere kraftigt er elektriciteten, og jo mere farlig er den. Spænding Måles i Volt, og man bruger bogstavet **V** til at repræsentere det. 
+
+**Strøm** er farten af elektriciteten. Styrken af strømmen er med til at afgøre hvor hurtigt at elektriciteten gennemløber et elektrisk komponent. Strøm måles i Ampere, og man bruger bogstavet **A** til at repræsentere det. 
+
+**Modstand** er hvor resistent at et elektrisk komponent eller kredsløb er overfor elektricitet. Modstand måles i Ohm, og man bruger bogstavet **Ω** til at repræsentere det. 
+
+De 3 Komponenter af elektricitet bliver brugt i alle elektriske kredsløb, uanset hvad for en type. 
 
 
-Det første koncept som man skal lære indenfor el-teori er ohm's lov. Ohm's lov fortæller os noget om forholdet mellem Spænding, Strøm og Modstand. Men hvad er de forskellige ting? 
-
-**Spænding** er styrken af elektriciteten. Jo større spændingen er, jo mere kraftigt er elektriciteten, og jo mere farlig er den. 
-
-**Strøm** er farten af elektriciteten. Styrken af strømmen er med til at afgøre hvor hurtigt at 
-* Ohm's lov & effektloven
-* Kirchoff's lov
-* Elektrisk kraft osv. 
 ### Ledningsmodstand & Spændingsfald
 ### Motorer 
 * typer af motorer
