@@ -5,9 +5,16 @@ Emil Andreasen
 ### Metriske Præfikser
 
 ## El-Teori
-### Kredsløbsteori
+### Jævnstrømsteori
 
 #### Ohm's lov
+Ohm's lov fortæller os noget om forholdet mellem Spænding, strøm og modstand. Men hvad er Spænding, strøm og modstand? Den nemeste måde at forstå det er ved at sammenligne det med en vandslange.  
+
+**Spænding** er styrken af elektriciteten, og kan forstås som størrelsen på vandslangen. Kraften af elektriciteten i et kredsløb stiger i takt med at spændingen stiger. Spænding måles i **Volt**, og repræsenteres af bogstavet **V**.
+
+**Strøm** er hastigheden af elektriciteten, og kan forstås som hvor hurtigt at vandet løber igennem vandslangen. 
+
+
 #### forbindelsesmuligheder
 #### Effekt 
 #### Arbejde (Tid som faktor)
