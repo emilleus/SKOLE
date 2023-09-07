@@ -5,7 +5,6 @@ Emil Andreasen
 ### Metriske Præfikser
 
 ## El-Teori
-<<<<<<< Updated upstream
 ### Jævnstrømsteori
 
 #### Ohm's lov
@@ -32,41 +31,11 @@ Ohm's lov fortæller os noget om forholdet mellem Spænding, strøm og modstand.
 * forhold
 
 ### Dimensionering
-=======
-### Kredsløbsteori
-#### Ohm's Lov 
-ohm's lov er den mest grundlæggende lov som der er indenfor elektricitet. Ohm's lov beskriver forholdet mellem Spænding, Strøm og modstand. Ohm's lov kan beskrives med de følgende formler:
-$$U = I*R$$
-$$I = \frac{U}{R}$$
-$$ R = \frac{U}{I}$$
-
-$U$ = spændingen, udtrykket i volt (V).
-
-$I$ = strømmen, udtrykket i ampere (A).
-
-$R$ = modstanden, udtrykket i Ohm (Ω).
- 
-#### Effektloven
-Effektloven er en udvidelse af ohm's lov, og beskriver forholdet mellem effekt, spænding og strøm. Effektloven kan udtrykkes med følgende formler: 
-$$P = U*I$$
-$$U = \frac{P}{I}$$
-$$I = \frac{P}{U}$$
-
-$P$ = effekt, som er d 
-### Ledningsmodstand & Spændingsfald
-### Transformere
->>>>>>> Stashed changes
 ### 1-faset vekselstrømsteori
 * ohmsk modstand, spole, kondensator
 * sinuskurve & forskydning
 * opgaver med flere forskellige komponenter
 ### 3-faset vekselstrømsteori
-<<<<<<< Updated upstream
-
-=======
-### Motorer 
-### Dimensionering
->>>>>>> Stashed changes
 
 ## Pneumatik
 ### Pneumatiske Komponenter
