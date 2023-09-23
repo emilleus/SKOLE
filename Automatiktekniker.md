@@ -1,8 +1,7 @@
 # Automatiktekniker Dokument
 Emil Andreasen
 
-## Nice to haves
-### Metriske Præfikser
+## Metriske Præfikser
 
 ## El-Teori
 ### Jævnstrømsteori
