@@ -25,11 +25,11 @@ $b$ = buelængde, uudsnit af omkreds
 
 Omkreds af en cirkel: $$O=π*d$$
 
-Areal af en cirkel:$$A=π*r^2$$
+Areal af en cirkel: $$A=π*r^2$$
 
-Buelængde udspændt af en vinkel: $$b= {2*π*r \over 360 \\ *v}$$
+Buelængde udspændt af en vinkel: $$b=\frac{2*π*r}{360}*v$$
 
-Areal af et cirkeludsnit: $$A = {π*r^2*v \over 360}$$
+Areal af et cirkeludsnit: $$A =\frac{π*r²*v}{360}$$
 
 Areal af en cirkelring: $$A=π* (R^2-r^2)$$
 
