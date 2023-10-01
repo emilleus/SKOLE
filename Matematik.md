@@ -548,8 +548,12 @@ $$T_p=\bigg(\frac{-b}{2a},\frac{-d}{4a}\bigg)$$
 ## Logaritmer
 
 ## Calculus
+
 ### Differentialregning
-### Integralregning
+**Sekant og Tangent**
+* Sekant er når man tegner en linje gennem en funktion med 2 punkter. 
+* Tangent er når man tegner en linje gennem en funktion med 1 punkt. 
+
 
 ## Vektorer
 ### Vektorer i planen
