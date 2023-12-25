@@ -4,7 +4,14 @@ Emil andreasen
 
 # Indholdsfortegnelse
 1. [Geometri](#Geometri)
-  * [Cirkler](###Cirkler) 
+  * [Cirkler](###Cirkler)
+  * [Trekanter](###Trekanter)
+  * [Firkanter](###Firkanter)
+  * [Prismer](###Prismer)
+  * [Cylindere](###Cylindere)
+  * [Pyramider](###Pyramider)
+  * [Kegler](###Kegler)
+  * [Kugler](###Kugler)
 3. [Trigonometri](#Trigonometri)
 4. [Ligninger](#Ligninger)
 5. [Funktioner](#Funktioner)
