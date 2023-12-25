@@ -4,8 +4,7 @@ Emil andreasen
 
 # Indholdsfortegnelse
 1. [Geometri](#Geometri)
-
-1.1[Cirkler](###Cirkler) 
+  * [Cirkler](###Cirkler) 
 3. [Trigonometri](#Trigonometri)
 4. [Ligninger](#Ligninger)
 5. [Funktioner](#Funktioner)
