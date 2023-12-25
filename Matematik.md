@@ -2,6 +2,13 @@
 # Matematik Dokument
 Emil andreasen
 
+# Table of Contents
+1. [Example](#Geometri)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
 ## Geometri
 Geometri omhandler forskellige 2D og 3D figurer, og hvad man kan bruge dem til. I den her del af dokumentet har vi formler til hvordan man regner sig frem til forskellige værdier i figurer, og hvad de forskellige værdier betyder. 
 
