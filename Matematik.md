@@ -2,9 +2,9 @@
 # Matematik Dokument
 Emil andreasen
 
-# Table of Contents
+# Indholdsfortegnelse
 1. [Geometri](#Geometri)
-2. [Example2](#example2)
+2. [Trigonometri](#Trigonometri)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
