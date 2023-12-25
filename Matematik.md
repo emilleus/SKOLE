@@ -5,8 +5,8 @@ Emil andreasen
 # Indholdsfortegnelse
 1. [Geometri](#Geometri)
 2. [Trigonometri](#Trigonometri)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+3. [Ligninger](#Ligninger)
+4. [Funktioner](#Funktioner)
 
 
 ## Geometri
