@@ -51,9 +51,6 @@ $$x = 20,52$$
 $$20,52*28,39 = 582,56$$
 $$20,52*17,54+222,67=582,59$$
 
-
-### Eksponentiel funktion
-### Potens funktion
 ### Andengradspolynomiet
 
 Andengradspolynomier hænger sammen med Andengradsligninger, fordi man bruger formlen for andengradsligninger til at udregne det punkt/punkter, hvor andengradspolynomiet skærer x-aksen. 
