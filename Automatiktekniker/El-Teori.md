@@ -77,6 +77,8 @@ $$R_i = R_T - R_y$$
 $$R_y = R_T - R_i$$
 
 ## Ledningsmodstand & Spændingsfald
+
+### ledningsmodstand
 Når man udregner ledningsmodstand for et specifikt materiale, så går man ud fra de her variabler: 
 * 1M lang leder
 * 1 kvadrat-mm tyk leder
