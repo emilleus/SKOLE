@@ -1,6 +1,6 @@
 Skal indeholde:
 
-* Kredsløbsteori
+* Jævnstrømsteori
 * Ledningsmodstand og Spændingsfald
 * Transformere
 * Måleteknik
