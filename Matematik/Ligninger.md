@@ -26,9 +26,6 @@ $$x=\frac{200*8}{100}=16kr$$
 ### Ligninger med 2 ukendte
 når man skal løse en ligning med 2 ukendte værdier, så skal der være 2 forskellige ligninger. Der er 2 forskellige metoder til at løse en ligning med 2 ukendte: *Substitutionsmetoden*, og *Lige store coefficienter metoden*.
 
-#matematik 
-### 2 Ligninger med 2 ukendte:
-
 **Substitutionsmetoden:**
 1. Først, så har man 2 ligninger:
 $$6x-2y=12 \qquad 4x+8y=64$$
