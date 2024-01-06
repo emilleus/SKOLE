@@ -39,5 +39,41 @@ $$R_T = R_1 + R_2 + R_3$$
 $$U_T = U_1 = U_2 = U_3$$
 $$I_T = I_1 +I_2+I_3$$
 $$R_T = (R_1^{-1 } + R_2^{-1} + R_3^{-1})^{-1} $$
-$$R_T = \frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}}
+$$R_T = \frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}}$$
 
+**Blandede forbindelser**
+
+når man skal udregne blandede forbindelser, så skal man altid simplificere. 
+
+### Elektromotorisk kraft & Spændingskilder
+når spændingskilden til et kredsløb f.eks er et batteri, vil der være en indre modstand i batteriet, som man kalder $R_i$. og fordi der er en indre modstand, er der også en indre spænding, som ændrer sig efter hvilken strøm som kredsløbet får. 
+
+* Den indre og den ydre spænding/modstand sidder i serie, så man skal tænke på det som et seriekredsløb. 
+
+**Navne:**
+
+$E$ = Spænding Ubelastet
+
+$I_K$ = Kortslutningsstrøm
+
+$U_i$ = Indre spænding, Batteri
+
+$U_y$ = Ydre spænding, lygte
+
+$U$ = Klemspænding, samlet ydre spænding
+
+$I_B$ = strøm (belastningsstrøm)
+
+**Formler:**
+$$E = U + U_i$$
+$$U_i = R_i * I_B$$
+$$U_i  =E - U_y$$
+$$U = R_y * I_B$$
+$$I_K = \frac{E}{U_i}$$
+$$U = E - U_i$$
+$$I_B = \frac{E}{R_T}$$
+$$I_B = \frac{E}{R_i + R_y}$$
+$$R_i = R_T - R_y$$
+$$R_y = R_T - R_i$$
+
+## Ledningsmodstand & Spændingsfald
