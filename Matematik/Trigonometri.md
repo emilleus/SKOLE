@@ -63,7 +63,7 @@ $$tan^{-1}(1,355)=53,57°$$
 
 3. nu har vi regnet vinkel A ud. Det næste vi kan gøre er at regne hypotenusen ud. Det gør vi ved at omskrive formlen for sinus, så vi isolerer hyp.
 $$sin(A)=\frac{mod}{hyp}$$
-$$sin(A)*hyp=\frac{mod*hyp}{hyp}$$Funktioner & Polyno
+$$sin(A)*hyp=\frac{mod*hyp}{hyp}$$
 $$sin(A)*hyp=mod$$
 $$\frac{sin(A)*hyp}{sin(A)}=\frac{mod}{sin(A)}$$
 $$hyp=\frac{mod}{sin(A)}$$
