@@ -77,3 +77,24 @@ $$R_i = R_T - R_y$$
 $$R_y = R_T - R_i$$
 
 ## Ledningsmodstand & Spændingsfald
+Når man udregner ledningsmodstand for et specifikt materiale, så går man ud fra de her variabler: 
+* 1M lang leder
+* 1 kvadrat-mm tyk leder
+* 20°C leder
+
+**Navne:**
+
+$Ω$ = modstand
+
+$L$ = længde af leder i meter.
+
+$q$ = tykkelsen af leder i millimeter.
+
+$R_L$ = modstanden i leder. 
+
+$φ$ = modstandsfylde / materiale.
+
+
+
+
+
