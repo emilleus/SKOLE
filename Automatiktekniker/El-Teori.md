@@ -84,6 +84,8 @@ Når man udregner ledningsmodstand for et specifikt materiale, så går man ud f
 * 1 kvadrat-mm tyk leder
 * 20°C leder
 
+man bruger formlen frac{}{}
+
 **Navne:**
 
 $Ω$ = modstand
@@ -95,6 +97,10 @@ $q$ = tykkelsen af leder i millimeter.
 $R_L$ = modstanden i leder. 
 
 $φ$ = modstandsfylde / materiale.
+
+**Formler:**
+
+$$R_L = ɸ
 
 
 
