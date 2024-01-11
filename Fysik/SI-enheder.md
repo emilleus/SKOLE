@@ -10,7 +10,7 @@ der er 7 SI-Enheder:
 |strøm (I)       | Ampere (A)    |
 | lysstyrke      | Candela (cd)  | 
 | Temperatur (T) | Kelvin (k)    |
-| n              | mol           |
+| Stofmængde (n) | mol           |
 
 Kelvin er det samme som celcius, bortset fra at det er rykket 273 grader.
 
