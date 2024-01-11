@@ -5,6 +5,8 @@
 
 Formel for afstanden mellem 2 punkter:
 $$|AB| = \sqrt{(y_2-y_1)^2+(x_2-x_1)^2}$$
+$$|AB| = \sqrt{(y_A-y_B)^2+(x_A-x_B)^2}$$
+
 
 Formel for at finde midtpunktet af $|AB|$:
 $$M_{AB} = \bigg(\frac{x_1+x_2}{2};\frac{y_1+y_2}{2}\bigg)$$
