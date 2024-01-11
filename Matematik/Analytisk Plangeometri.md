@@ -1,4 +1,4 @@
-## Analytisk Geometri
+## Analytisk Plangeometri
 * Foregår i et koordinatsystem
 * man noterer punkterne: $A(3;6)$
 * hvis man skal skrive længden fra et punkt til et andet, skriver man det sådan her: $|AB|$. 
