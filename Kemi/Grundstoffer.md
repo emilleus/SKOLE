@@ -17,7 +17,7 @@
 ### Reaktionsskemaer
 Reaktionsskemaer bruges til at beskrive den måde man omdanner stoffer til andre stoffer. 
 
-Et reaktionsskema skal altid være balanceret. Dvs at der skal være lige mange af de forskellige grundstoffer på begge sider af pilen. F.eks:
+Et reaktionsskema skal altid være afstemt. Dvs at der skal være lige mange af de forskellige grundstoffer på begge sider af pilen. F.eks:
 
 $$2H_2 + O_2  -> 2H_2O$$
 
@@ -26,11 +26,27 @@ I et reaktionsskema vi man ofte angive den tilstandsform som den kemiske forbind
 * væske (l)
 * gas (g)
 
-$$2H_{2(g)} + O_{2(g)}  -> 2H_2O_{(l)}$$
+$$2H_{2(g)} + O_{2(g)}  -> 2H_2O_{(g)}$$
 
-
+Man angiver også hvis at stoffet er opløseligt i vand. Det går man med $(aq)$. 
 
 ## Skal modellen / elektronsystemet
 
 * man kan udregne det med formlen $2*n^2$. n = skallen
 * der vil aldrig være mere end 8 i den yderste skal. (octalreglen).
+
+## Atomets opbygning
+
+Et atom består af 3 grunddele: Protoner, Neutroner, og elektroner. 
+
+**Elektroner:**
+* er negativt ladet 
+* masse = 0,00055 u
+
+**Protoner:**
+* er positivt ladet 
+* masse = 1,0073 u
+
+**Neutroner:**
+* er neutrale. 
+* masse = 1,0087 u 
