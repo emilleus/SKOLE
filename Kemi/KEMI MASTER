@@ -3,12 +3,6 @@ Dette er dokumentet som skal redde mig fra Kemi C. Nu lægger jeg en masse energ
 
 # Grundstoffer
 
-* Grundstofferne i det periodiske system sorteres efter hvor mange elektroner som der er i den yderste skal, og hvor mange skaller at grundstoffet har. 
-* der kan kun være 2 elektroner i den inderste skal. 
-
-* Når man skal skrive forkertelsen på et grundstof, så vil det første bogstav altid være stort, og det andet bogstav være småt. f.eks $Li$
-
-
 **Grundstoffer**:
 * et grundstof er et stof, som ikke kan spaltes mere, f.eks hydrogen og oxygen. 
 * Et grundstof består af ens atomer.
@@ -45,11 +39,6 @@ $$2H_{2(g)} + O_{2(g)}  -> 2H_2O_{(g)}$$
 
 Man angiver også hvis at stoffet er opløseligt i vand. Det går man med $(aq)$. 
 
-## Skal modellen / elektronsystemet
-
-* man kan udregne det med formlen $2*n^2$. n = skallen
-* der vil aldrig være mere end 8 i den yderste skal. (octalreglen).
-
 ## Atomets opbygning
 
 Et atom består af 3 grunddele: Protoner, Neutroner, og elektroner. 
@@ -66,15 +55,42 @@ Et atom består af 3 grunddele: Protoner, Neutroner, og elektroner.
 * er neutrale. 
 * masse = 1,0087 u 
 
+## Atommasse
+
+* Atommasse måles i enheden u. 
+* $1u=\frac{1}{12}$ af $^{12}_6C$-atomets masse. 
+
+når man skal udregne gennemsnitsmassen af et grundstof, tager man 100.000 atomer af et grundstof, og finder ud af hvor mange af de forskellige isotoper der vil være i, og regne den gennemsnitlige atomvægt ud, f.eks for carbon: 
+$$\frac{98892*12,00000+1108*13,00335}{100000} = 12,011u$$
+
+## Grundstoffernes periodesystem
+Det periodiske system kan opdeles i 2 grupper: Hovedgrupper, og undergrupper. Hovedgrupperne består af gruppe 1+2, og 13-18. Undergrupperne består af de resterende grupper. 
+
+Hovedgrupperne kan sorteres på x-aksen efter hvor mange elektroner de har i yderste skal, og på y-aksen efter mængden af protoner. 
+
+## Atomernes elektronsystem
+Elektroner ligger i "skaller" rundt om atomet. Hvor mange elektroner som der kan være i de forskellige skaller kan udregnes med formlen $2*n^2$, hvor $n$ er skallen. 
+
+Den inderste skal kaldes K-skallen, og den næste L-skallen, osv ned af alfabetet. 
+
+Strukturen af skallen i de første 18 grundstoffer er lineær; den fylder den inderste kerne helt op, før den går i gang med den næste. Efter de første 18 bliver det mere kompliceret. 
+
+### Oktetreglen
+
+Grundstofferne i Hovedgrupperne vil oftest danne bindinger på sådan en måde, så de opfylder oktetreglen. Man siger, at alle grundstofferne gerne vil blive til ædelgasser. Dvs at et grundstof i hovedgruppe 6  vil oftest gå sammen med et grundstof fra gruppe 2, så de kan opfylde oktetreglen sammen. 
 
 # Ioner og ionforbindelser
 
 ## Simple & Sammensatte ioner
 
-eksempler på simple ioner: 
+Eksempler på simple ioner: 
 * $N^{3-}$ = nitrid
 * $O^{2-}$ = oxid
 * $S^{2-}$ = sulfid
+* $P^{3-}$ = Phosphid
+
+Eksempler på Sammensatte ioner: 
+* $SO^{2-}_4$ = Sulfat
 * 
 
 ## Oktetreglen
