@@ -100,9 +100,5 @@ $φ$ = modstandsfylde / materiale.
 
 **Formler:**
 
-$$R_L = ɸ
-
-
-
-
-
+$$CU = 0,0175\frac{Ω*mm^2}{M} | Specifikke \ modstand$$
+$$R_L = \frac{φ(\frac{Ω*mm^2}{M})*L_{(M)}}{q_{(mm^2)}}$$
