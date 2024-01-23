@@ -18,3 +18,8 @@ Kelvin er det samme som celcius, bortset fra at det er rykket 273 grader.
 * 273 grader kelvin = 0 grader celsius
 * 373 grader kelvin = 100 grader celcius
 
+## Afledte SI-enheder
+
+
+* si enheden for energi er joule. 
+Symbolet for effekt er P, og enheden er Watt (W)

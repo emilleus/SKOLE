@@ -1,4 +1,4 @@
-## Energi
+# Energi
 Der er x forskellige former for energi:
 
 * Elektrisk Energi
@@ -40,6 +40,9 @@ $$ ΔE = Q + A$$
 * $Q$ = Den tilførte varmeenergi - F.eks fra komfuret
 * $A$ = Arbejde fra omgivelser - F.eks at røre i gryden. 
 
+Når man skal tilføre varme til f.eks en gryde vand, kan man gøre det på 2 måder: øge varmen tilført, eller tilføre arbejde.
+$$ΔE_{indre}=Q+A$$
+
 ## Varmekapacitet
 
 Varmekapacitet er hvor meget energi som man skal bruge for at få $x$ materiale til at stige med $y$ temperatur. 
@@ -56,6 +59,11 @@ En anden måde at skrive forholdet på er således:
 
 $$varmekapacitet = \frac{varmetilførsel}{temperaturstigning}$$
 
+* $Q$ = tilført varmeenergi
+
+* $Δt$ = forskellen i temperatur
+
+* $C$ = Varmekapacitet
 
 ## Specifik varmekapacitet
 
@@ -69,6 +77,50 @@ $$c=\frac{C}{m}$$
 * $C$ = varmekapacitet (J)
 * $m$ = masse (kg)
 
+For at finde den specifikke mængde energi tilført, skal man bruge den her formel:
+$$Q = m*c*Δt$$
+
+* $Q$ = Varme tilført, det samme som $ΔE_{indre}$ (J)
+
+* $m$ = massen (kg)
+
+* $c$ = den specifikke varmekapacitet (J)
+
+* $Δt$ = forskellen i temperatur (k)
+
+### Isterning fra -18C til 100C
+fra -18C til 0C kan vi bruge formlen nedenunder. Isterningen vejer 10g. 
+
+$$Q_1 = m*c*Δt = 0,01*2040*18 = 367,2J$$
+
+Før at vi så kan udregne fra 0 grader til 100, så skal vi først smelte isterningen til vand. det gør vi med Specifik smeltevarme. OBS på at det er i kJ istedet, så man skal gange tallene med $10^3$. 
+
+$$Q_2 = m*L_s = 0,01*334.400 = 3344J$$
+
+Derefter kan vi bruge formlen for specifik varmekapacitet for at udregne $Q_3$:
+$$Q_3 = m*c*Δt = 0,01*4180*100 = 4180J$$
+
+og til sidst skal vi udregne specifik fordampningsvarme. samme princip som $Q_2$:
+$$Q_4 = m*L_f = 0,01*2260000 = 22600J$$
+
+$$Q = 367,2+3344+4180+22600 = 30491,2J$$
+
+
+
 ## Tilstandsformer
+
+**Specefik smeltevarme:**
+
+$$Q = m*L_S$$
+
+m = masse (kg)
+
+L_S = specifik smeltevarme (kJ)
+
+**Specifik fordampningsvarme:**
+$$Q = m*L_f$$
+
+* m = masse (kg)
+* L_F = specifik fordampningsvarme
 
 ## nyttevirkning
