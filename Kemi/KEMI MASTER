@@ -81,7 +81,20 @@ Grundstofferne i Hovedgrupperne vil oftest danne bindinger på sådan en måde, 
 
 # Ioner og ionforbindelser
 
+En ion er et grundstof eller en kemisk forbindelse, som mangler/ har for mange elektroner. 
+
+Elektroner kan ikke eksistere frit. Derfor vil et grundstof kun afgive sin elektron, hvis der er et andet grundstof, som kan tage den. 
+
+Et eksempel er Natriumchlorid. Der afgiver natrium en elektron, og chlor optager den elektron.
+$$Na+Cl → Na^+ + Cl^-$$
+
+* Chlor bindes sammen til $Cl_2$ molekyler, så derfor skriver man formlen sådan her: 
+
+$$2Na_{(s)}+Cl_{2(g)}→2NaCl_{(s)}$$
+
 ## Simple & Sammensatte ioner
+
+Man skelner mellem _simple ioner_ og _sammensatte ioner_. Simple ioner består kun af et enkelt atom, hvor sammensatte ioner består af flere forskellige atomer. 
 
 Eksempler på simple ioner: 
 * $N^{3-}$ = nitrid
@@ -91,9 +104,22 @@ Eksempler på simple ioner:
 
 Eksempler på Sammensatte ioner: 
 * $SO^{2-}_4$ = Sulfat
-* 
 
-## Oktetreglen
+### simple ioner
+
+Når man snakker simple ioner, Så afgiver Metalatomer elektroner og danner positie ioner, mens ikke metaller optager elektroner, og danner negative ioner.
+
+De fleste hovedgruppegrundstoffer danner ioner i overensstemmelse med oktetreglen. DVS at metalatomerne i gruppe 1-4 afgiver elektroner, og atomerne i gruppe 5-8 optager elektroner.
+
+Bly og tin kan danne flere forskellige ioner, så derfor angiver vi ionladningen:
+* $Pb^{2+}$ = bly(II)ion
+* $Sn^{2+}$ = tin(II)ion
+* $Sn^{4+}$ = tin(IV)ion
+
+### Sammensatte ioner
+
+
+
 ## Fældningsreaktioner
 
 

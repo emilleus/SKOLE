@@ -79,6 +79,7 @@ $$c=\frac{C}{m}$$
 
 For at finde den specifikke mængde energi tilført, skal man bruge den her formel:
 $$Q = m*c*Δt$$
+$$c = \frac{Q}{m*Δt}$$
 
 * $Q$ = Varme tilført, det samme som $ΔE_{indre}$ (J)
 
