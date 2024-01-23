@@ -39,3 +39,9 @@ Forklar forskellen på følgende skrivemåder:
 * $H_2(l)$ = 2 Hydrogen atomer kemisk forbundet, som er i flydende tilstand.
 * $H_2(s)$ = 2 Hydrogen atomer kemisk forbundet, som er i fast tilstand.
 
+## Opgave 16: 
+a) jern(III)nitrat = $Fe(NO_3)_3$
+
+b)ammoniumcarbonat = $(NH_4)_2CO_3$
+
+c)magnesiumnitrat-vand (1/6)

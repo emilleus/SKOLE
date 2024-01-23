@@ -1,6 +1,8 @@
 # Kemi Master Dokumentet
 Dette er dokumentet som skal redde mig fra Kemi C. Nu lægger jeg en masse energi i det, så nu har jeg bare at skulle op til eksamen i det til sommer.
 
+# Mærkning af farlige kemikalier
+
 # Grundstoffer
 
 **Grundstoffer**:
@@ -118,7 +120,33 @@ Bly og tin kan danne flere forskellige ioner, så derfor angiver vi ionladningen
 
 ### Sammensatte ioner
 
+En sammensat ion består af flere forskellige atomer, som er bundt sammen. 
 
+**Eksempler:**
+* $OH^-$ = hydroxid
+* $SO_4^{2-}$ = sulfat
+* $CO_3^{2-}$ = carbonat
+* $PO_4^{3-}$ = phosphat
+* $NO_3^-$ = nitrat
+* $NH_4^+$ = ammonium
+
+**Jeg skal kunne ovenstående udenad.**
+
+Hvis et grundstof danner flere forskellige oxygenholdige ioner, angiver -it et lavere oxygenindhold end -at, f.eks:
+* $SO_3^{2-}$ = sulfit
+* $SO_4^{2-}$ = sulfat
+* $NO_2^-$ = nitrit
+* $NO_3^+$ = nitrat
+
+**Eksempel på sammensat ionforbindelse:**
+$$Al^{3+}+SO_4^{2-}→Al_2(SO_4)_3$$
+
+### Krystalvand
+
+Nogle gange sidder der vandmolekyler mellem ionerne i et iongitter. Det kalder man for krystalvand. f.eks:
+$$Na_2SO_4*10H_2O$$
+
+I ovenstående stof er der 10 vandmolekyler for hver 2 natriumioner og 1 sulfat. når der ved siden af navnet på et stof står (1/6) eller lignende, så betyder det at der er 6 molekyler vand for hver formelenhed. 
 
 ## Fældningsreaktioner
 
