@@ -89,24 +89,7 @@ $$c = \frac{Q}{m*Δt}$$
 
 * $Δt$ = forskellen i temperatur (k)
 
-### Isterning fra -18C til 100C
-fra -18C til 0C kan vi bruge formlen nedenunder. Isterningen vejer 10g. 
-
-$$Q_1 = m*c*Δt = 0,01*2040*18 = 367,2J$$
-
-Før at vi så kan udregne fra 0 grader til 100, så skal vi først smelte isterningen til vand. det gør vi med Specifik smeltevarme. OBS på at det er i kJ istedet, så man skal gange tallene med $10^3$. 
-
-$$Q_2 = m*L_s = 0,01*334.400 = 3344J$$
-
-Derefter kan vi bruge formlen for specifik varmekapacitet for at udregne $Q_3$:
-$$Q_3 = m*c*Δt = 0,01*4180*100 = 4180J$$
-
-og til sidst skal vi udregne specifik fordampningsvarme. samme princip som $Q_2$:
-$$Q_4 = m*L_f = 0,01*2260000 = 22600J$$
-
-$$Q = 367,2+3344+4180+22600 = 30491,2J$$
-
-
+### Energibevarelse
 
 ## Tilstandsformer
 
@@ -124,4 +107,30 @@ $$Q = m*L_f$$
 * m = masse (kg)
 * L_F = specifik fordampningsvarme
 
+**Skema for forskellige stoffers Specifikke smeltevarme og fardampningsvarme:**
+
+|Stof|Specifik smeltevarme|Specifik fordampningsvarme|
+|--
+
 ## nyttevirkning
+
+$$η = \frac{E_{udnyttet}}{E_{E_{tilført}}}$$
+
+
+
+## Opgave: Isterning fra -18C til 100C
+fra -18C til 0C kan vi bruge formlen nedenunder. Isterningen vejer 10g. 
+
+$$Q_1 = m*c*Δt = 0,01*2040*18 = 367,2J$$
+
+Før at vi så kan udregne fra 0 grader til 100, så skal vi først smelte isterningen til vand. det gør vi med Specifik smeltevarme. OBS på at det er i kJ istedet, så man skal gange tallene med $10^3$. 
+
+$$Q_2 = m*L_s = 0,01*334.400 = 3344J$$
+
+Derefter kan vi bruge formlen for specifik varmekapacitet for at udregne $Q_3$:
+$$Q_3 = m*c*Δt = 0,01*4180*100 = 4180J$$
+
+og til sidst skal vi udregne specifik fordampningsvarme. samme princip som $Q_2$:
+$$Q_4 = m*L_f = 0,01*2260000 = 22600J$$
+
+$$Q = 367,2+3344+4180+22600 = 30491,2J$$
