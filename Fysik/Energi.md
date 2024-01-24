@@ -113,6 +113,7 @@ $$Q = m*L_f$$
 |--
 
 ## nyttevirkning
+nyttevirkning er det samme som i el-teori, så bare energi man får ud over energi der kommer ind. 
 
 $$η = \frac{E_{udnyttet}}{E_{E_{tilført}}}$$
 
