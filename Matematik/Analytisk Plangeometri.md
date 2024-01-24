@@ -6,6 +6,7 @@
 Formel for afstanden mellem 2 punkter:
 $$|AB| = \sqrt{(y_2-y_1)^2+(x_2-x_1)^2}$$
 $$|AB| = \sqrt{(y_A-y_B)^2+(x_A-x_B)^2}$$
+$$|AB| = \sqrt{(Δy)^2+(Δx)^2}$$
 
 
 Formel for at finde midtpunktet af $|AB|$:
@@ -23,7 +24,7 @@ $$y=ax+b$$
 
 * $l$ = linje
 
-For at finde skæringspunktet mellem 2 rette linjer, skal man udregne det som 2 ligninger med 2 ubekendte.
+For at finde skæringspunktet mellem 2 rette linjer, skal man udregne det som 2 ligninger med 2 ubekendte. $x$ og $y$ er så koordinaterne på hvor de krydser. 
 
 $$ m: x+2y-2=0$$
 $$ l: y=-x+7$$

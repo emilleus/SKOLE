@@ -35,4 +35,4 @@ Vi slutter en kaffemaskine til en energimåler. 1,2kg koldt vand (15C) hældes p
 
 $$Q_{udnyttet} = m*c*Δt = 1,2*4180*75 = 376,2kJ$$ 
 
-$$η= \frac{Q_{udnyttet}}{Q_{tilført}}=0,63 = 63\%$$
+$$η= \frac{Q_{udnyttet}}{Q_{tilført}}=\frac{376,2}{600}=0,63 = 63\%$$
