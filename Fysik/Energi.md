@@ -1,47 +1,42 @@
 # Energi
-Der er x forskellige former for energi:
 
-* Elektrisk Energi
-* Kemisk Energi
-* Termisk Energi
-* Kinetisk Energi
-* Potential Energi
-* Kerne Energi
-* Stråleenergi 
+**Navne:**
 
-I fysik bruger man SI-enheden Joule til energi. 
-* 1kWh = 3,6 MJ
-
+* $P$ = Effekt, målt i watt (W)
+* $E$ = Energi. målt i Joule (J)
+* $ΔE$ = tilvækst i energi, målt i Joule (J)
+* $t$ = tid, målt i sekunder (s)
+* $ΔT$ = forskel i temperatur, målt i kelvin (k)
+* $Q$ = tilført varmeenergi, målt i Joule (J)
+* $C$ = Varmekapacitet,  målt i kilo-Joule per grad celcius (kJ/°C)
+* $c$ = specifik varmekapacitet, målt i kilo-Jole per grad celcius (kJ/°C)
+* $m$ = masse, målt i kilogram (kg)
+* $L_s$ = specifik smeltevarme, målt i kilo-Joule per kilogram (kJ/kg)
+* $L_f$ = specifik fordampningsvarm, målt i kilo-Joule per kilogram (kJ/kg)
+* $A$ = arbejde, målt i Joule (J)
 
 ## Effekt
 
+**Formel for effekt:**
 $$ effekt = \frac{energi}{tid}$$
-
-* Watt er det samme som Joule pr. Sekund. 
-
-F.eks Hvis en brødrister bruger 30000 J på et minut, så kan man regne effekten ud sådan her:
-$$ \frac{30000 J}{60 s} = 500W$$
 $$ P = \frac{E}{t}$$
 
-* $P$ = Effekt (kWh)
-* $E$ = energi (J)
-* $t$ = tid (s)
+* Watt er det samme som Joule pr. Sekund. 
+* kilo-watt-time er watt * 3600, fordi det er antallet sekunder i en time. 
 
-$$1 kWh = 1000W * 3600 s == 3600000 J = 3,6 MJ$$
+$$1 kWh = 1000W * 3600 s = 3600000 J = 3,6 MJ$$
 
 
 ## Varme
 
 Varme er ikke bare varme. Når man snakker om varme i Fysik, så snakker man om 2 forskellige ting: Temperatur, og overførsel af varmeenergi. 
 
+Når man skal tilføre varme til f.eks en gryde vand, kan man gøre det på 2 måder: øge varmen tilført, eller tilføre arbejde.
+
+**Formel for tilført varme:**
+
 $$ ΔE = Q + A$$
 
-* $ΔE$ = Tilvæksten i Energi (J)
-* $Q$ = Den tilførte varmeenergi - F.eks fra komfuret
-* $A$ = Arbejde fra omgivelser - F.eks at røre i gryden. 
-
-Når man skal tilføre varme til f.eks en gryde vand, kan man gøre det på 2 måder: øge varmen tilført, eller tilføre arbejde.
-$$ΔE_{indre}=Q+A$$
 
 ## Varmekapacitet
 
@@ -59,58 +54,54 @@ En anden måde at skrive forholdet på er således:
 
 $$varmekapacitet = \frac{varmetilførsel}{temperaturstigning}$$
 
-* $Q$ = tilført varmeenergi
-
-* $Δt$ = forskellen i temperatur
-
-* $C$ = Varmekapacitet
-
 ## Specifik varmekapacitet
 
 Specifik varmekapacitet er hvor meget energi der skal til for at hæve temperaturen 1°C på 1kg af et materiale.
 
-Formel:
+**Formel for at udregne specifik varmekapacitet af et stof:**
 
 $$c=\frac{C}{m}$$
 
-* $c$ = specifik varmekapacitet (J)
-* $C$ = varmekapacitet (J)
-* $m$ = masse (kg)
+**Formel for Udvidet varmekapacitet:**
 
-For at finde den specifikke mængde energi tilført, skal man bruge den her formel:
 $$Q = m*c*Δt$$
 $$c = \frac{Q}{m*Δt}$$
 
-* $Q$ = Varme tilført, det samme som $ΔE_{indre}$ (J)
 
-* $m$ = massen (kg)
-
-* $c$ = den specifikke varmekapacitet (J)
-
-* $Δt$ = forskellen i temperatur (k)
 
 ### Energibevarelse
+Hvis man gerne vil holde noget varmt/koldt, så skal man komme det i en varmeisoleret beholder. I en totalt varmeisoleret beholder vil energien indeni beholderen være konstant, og tilvæksten i energi er derfor nul.
+$$ΔE_{indre}=0$$
+
+Hvis man blander 2 væsker med 2 forskellige temperaturer i en totalt varmeisoleret beholder, ser formlen for at finde fællestemperaturen sådan her ud:
+$$t_f = \frac{m_v*c_v*t_v+m_l*c_l*t_l}{m_v*c_v+m_l*c_l}$$
+
 
 ## Tilstandsformer
+
+Et stof skifter tilstandsform når det går f.eks fra solid til væske. Imens et stof undergår ændring af sin tilstandsform, ændrer temperaturen på stoffet sig ikke.
 
 **Specefik smeltevarme:**
 
 $$Q = m*L_S$$
 
-m = masse (kg)
-
-L_S = specifik smeltevarme (kJ)
 
 **Specifik fordampningsvarme:**
+
 $$Q = m*L_f$$
 
-* m = masse (kg)
-* L_F = specifik fordampningsvarme
+**Skema for forskellige stoffers Specifikke smeltevarme og fordampningsvarme:**
 
-**Skema for forskellige stoffers Specifikke smeltevarme og fardampningsvarme:**
 
 |Stof|Specifik smeltevarme|Specifik fordampningsvarme|
-|--
+|----|--------------------|--------------------------|
+|Vand ($H_2O$) | 334,4 |2260 |
+|Ethanol (sprit)| 109 |840 | 
+|Helium ($He$) | 5,0| 20,0
+|Nitrogen ($N_2$)|51|399|
+|Hydrogen ($H_2$)|109|893
+|Aluminium ($Al$)|397| 10778| 
+
 
 ## nyttevirkning
 nyttevirkning er det samme som i el-teori, så bare energi man får ud over energi der kommer ind. 

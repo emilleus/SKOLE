@@ -72,10 +72,34 @@ $$tanV=|V_1-V_2|=71,57-63,44=8,13°$$
 første = 1,85°
 anden = 45° 
 
+### Projektion af punkt på linje
+Hvis vi har en linje $m$ og et punkt $P$, der ikke nødvendigvis ligger på linjen $m$, kan vi tegne en linje $n$ fra dette punkt og ned til linjen, sådan at linjen $n$ står vinkelret på linjen $m$. Det punkt $p_0$, hvor linjen skærer linjen $m$, kalder vi _projektioen_ af punktet $p$ på linjen $m$. 
+
 
 vinkelrette linjer med hældninger $a_1$ og $a_2$ =
 $$a_1 *a_2=-1$$
 
-$$a_1=\frac{1}{a_2}$$
+$$a_1=\frac{-   1}{a_2}$$
 
 * man kalder en linje som står vinkelret på en anden linje for en normal.
+
+### Cirklens ligning
+
+$$r=\sqrt{(x-a)^2+(y-b)^2}$$
+
+* Man bruger $(a;b)$ istedet for $(x;y)$ når man har koordinaterne til centrum på en cirkel.  
+* hvis man har et punkt som man vil se om ligger på cirkelperiferien, så kan man sætte sin $(x;y)$ værdier ind i formlen, for at tjekke om punktet ligger på cirkelperiferien.
+
+for at finde ud af om punktet ligger indenfor radiussen af cirklen, så skal man regne det ud med $(x;y)$ værdier, og hvis den er mindre end radiussen, så er den indenfor, og hvis den er over radiussen, så er den udenfor. er den lig med, ligger den på cirkelperiferien.
+
+**Opgaveeksempel:**
+* $C=(3;4)$
+* $r=6$
+
+$$(x-a)^2+(y-b)^2=r^2$$
+
+$$(x-3)^2+(y-4)^2=6^2$$
+
+### Tangent til cirklen
+
+* tangent er en linje som kun rører noget på et enkelt punkt.
