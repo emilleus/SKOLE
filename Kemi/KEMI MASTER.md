@@ -157,7 +157,7 @@ et eksempel på en fældningsreaktion er når man blander sølv(I)nitrat ($AgNO_
 
 **Skema over opløselighed:**
 
-![](IMG_3045.jpg)
+![](Opløselighedsskema.jpg)
 
 ## Exoterme og endoterme reaktioner
 * Exoterme reaktioner _afgiver_ energi. 
@@ -166,6 +166,22 @@ et eksempel på en fældningsreaktion er når man blander sølv(I)nitrat ($AgNO_
 Man konstanterer om en reaktion er endoterm eller exoterm ved at måle temperatur på den væske som reaktionen tager sted i, f.eks.
 
 # Kovalent binding
+
+**forskel på ionbinding og kovalent binding:**
+|Ion|Kovalent|
+|-|-|
+|Metal+ikke-metal|ikke metaller|
+|afgiver & optager $e^-$| Deles om $e^-$|
+|Formelenhed|molekyle|
+
+
+## Elektron-prik-formel
+
+man laver den yderste skal, først 4 fordelt rundt om atomet, og hvis der er mere end 4, så skal man begynde at lave dem i par. 
+
+* et atom kan kun binde sig, hvis der er et ledigt elektron, aka at der ikke er et elektronpar. 
+
+* når man skal tegne en binding, skal man bruge en vinkel på 104,5°. 
 
 # Mængdeberegninger
 
