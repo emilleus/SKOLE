@@ -149,7 +149,19 @@ $$Na_2SO_4*10H_2O$$
 I ovenstående stof er der 10 vandmolekyler for hver 2 natriumioner og 1 sulfat. når der ved siden af navnet på et stof står (1/6) eller lignende, så betyder det at der er 6 molekyler vand for hver formelenhed. 
 
 ## Fældningsreaktioner
+Fældningsreaktioner er en kemisk reaktion med salte, som skaber bundfald. Når vi arbejder med salte og fældningsreaktioner, så er det altid i vand. 
 
+et eksempel på en fældningsreaktion er når man blander sølv(I)nitrat ($AgNO_3$) med natriumchlorid. Så får man Sølv(I)chlorid (AgCl), som er tungtopløseligt.
+
+**Skema over opløselighed:**
+
+![](IMG_3045.jpg)
+
+## Exoterme og endoterme reaktioner
+* Exoterme reaktioner _afgiver_ energi. 
+* Endoterme reaktioner _optager_ energi.
+
+Man konstanterer om en reaktion er endoterm eller exoterm ved at måle temperatur på den væske som reaktionen tager sted i, f.eks.
 
 # Kovalent binding
 
