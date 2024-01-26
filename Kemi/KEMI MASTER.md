@@ -83,7 +83,7 @@ Grundstofferne i Hovedgrupperne vil oftest danne bindinger på sådan en måde, 
 
 # Ioner og ionforbindelser
 
-En ion er et grundstof eller en kemisk forbindelse, som mangler/ har for mange elektroner. 
+En ion er et stof, som mangler/ har for mange elektroner. 
 
 Elektroner kan ikke eksistere frit. Derfor vil et grundstof kun afgive sin elektron, hvis der er et andet grundstof, som kan tage den. 
 
@@ -93,6 +93,8 @@ $$Na+Cl → Na^+ + Cl^-$$
 * Chlor bindes sammen til $Cl_2$ molekyler, så derfor skriver man formlen sådan her: 
 
 $$2Na_{(s)}+Cl_{2(g)}→2NaCl_{(s)}$$
+
+* Ionbindinger er enormt stærke, og derfor har ionbindinger et meget højt smeltepunkt og fordampningspunkt. x
 
 ## Simple & Sammensatte ioner
 
