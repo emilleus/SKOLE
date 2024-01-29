@@ -45,3 +45,30 @@ a) jern(III)nitrat = $Fe(NO_3)_3$
 b)ammoniumcarbonat = $(NH_4)_2CO_3$
 
 c)magnesiumnitrat-vand (1/6)
+
+## Opgave 29:
+angiv navne for følgende stoffer:
+
+* $N_2$ = dinitrogen.
+* $N_2O$ = dinitrogenoxid.
+* $SO_2$ = svovldioxid
+* $SO_3$ = svolvtrioxid
+* $SF_6$ = svolvhexaflourid
+* $PCl_3$ = phosphortrichlorid
+* $N_2O_3$ = dinitrogentrioxid
+* $N_2O_5$ = dinitrogenpentaoxid
+* $As_4$ = tetraarsen
+
+## Opgave 30:
+Skriv formler for følgende stoffer:
+* diiod = $I_2$
+* octasvovl = $S_4$
+* carbondisulfid = $CS_2$
+* nitrogenoxid = $NO$
+* nitrogendioxid = $NO_2$
+* dinitrogentetraoxid = $N_2O_4$
+* dihydrogenoxid = $H_2O$
+* phosphorpentachlorid = $PCl_5$
+* tetraphospphordecaoxid = $P_4O_{10}$
+
+

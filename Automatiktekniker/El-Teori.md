@@ -10,7 +10,7 @@ Skal indeholde:
 
 El-Teori siden her er skrevet ud fra EVU's bog som omhandler el-teori, samt ud fra de ting jeg har lært om el-teori på skolen. https://viewer.ipaper.io/evu/elektrikeruddannelsen/uv-materiale-og-forloeb/el-teori-for-gf-2/?page=1
 
-## Jævnstrømsteori
+# Jævnstrømsteori
 
 ### Ohms lov 
 $$ U = I*R$$
@@ -102,3 +102,11 @@ $φ$ = modstandsfylde / materiale.
 
 $$CU = 0,0175\frac{Ω*mm^2}{M} | Specifikke \ modstand$$
 $$R_L = \frac{φ(\frac{Ω*mm^2}{M})*L_{(M)}}{q_{(mm^2)}}$$
+
+# 1-faset vekselstrømsteori
+
+* vekselstrømsteori
+
+# 3-faset vekselstrømsteori
+
+* motortyper og motorkobling

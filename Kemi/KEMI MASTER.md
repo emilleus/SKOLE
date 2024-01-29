@@ -173,6 +173,26 @@ Man konstanterer om en reaktion er endoterm eller exoterm ved at måle temperatu
 |Metal+ikke-metal|ikke metaller|
 |afgiver & optager $e^-$| Deles om $e^-$|
 |Formelenhed|molekyle|
+|navngives ikke med antal|navngives med antal
+
+**Talforstavelser:**
+
+1. mono-
+2. di-
+3. tri-
+4. tetra- 
+5. penta-
+6. hexa- 
+7. hepta- 
+8. octa- 
+9. nona- 
+10. deca. 
+
+
+* kovalente bindinger slutter også på id (?), men man bruger kun id når man sætter grundstoffet sammen med et andet. 
+
+* en kovalent binding opfylder stadig oktetreglen: den deler bare elektronen.
+
 
 
 ## Elektron-prik-formel
