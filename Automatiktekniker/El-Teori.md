@@ -105,8 +105,50 @@ $$R_L = \frac{φ(\frac{Ω*mm^2}{M})*L_{(M)}}{q_{(mm^2)}}$$
 
 # 1-faset vekselstrømsteori
 
-* vekselstrømsteori
+## Vekselstrømsbølgen
+Vekselstrøm veksler mellem positiv og negativ ladning hele tiden. hvor ofte at de skifter mellem positiv og negativ afgøres af frekvensen. den normale frekvens i danmark er 50hz, hvilket vil sige 50 perioder i sekundet. En periode er når spændingen når max værdien både i plus og minus, og tilbage til 0 igen.
+
+**Formel for frekvens:**
+$$t=\frac{1}{f} = \frac{1}{50} = 0,02s$$
+Man har også Maxværdier og effektiv værdier i vekselstrøm. Max-værdien er den værdi som bølgen når på sit toppunkt, og effektivværdien er den gennemsnitlige spænding/strøm i en given periode.
+
+**Formel for U_max og U_eff:**
+$$U_{eff} = \frac{U_{max}}{\sqrt{2}}$$
+$$U_{Max}=U_{eff}*\sqrt{2}$$
+
+## Faseforskydning
+Faseforskydning er den vinkel, som fase og strøm er forskudt ift. hinanden. Man udregner faseforskydningsvinklen ved hjælp af sin, cos og tan: 
+
+$$∠φ =cos^{-1}\bigg(\frac{hos}{hyp}\bigg)$$
+$$∠φ = sin^{-1}\bigg(\frac{mod}{hyp}\bigg)$$
+$$∠φ = tan^{-1}\bigg(\frac{mod}{hos}\bigg)$$
+
+## 1-faset kredsløbsteori
+Der er 3 typer belastninger i et vekselstrømskredsløb:
+
+**Ohmsk:**
+* Når man har en ohmsk belastning, så udregner man det på samme måde som i et jævnstrømskredsløb.
+
+**Induktiv:**
+* 
+
+**Kapacitiv:**
+
+
 
 # 3-faset vekselstrømsteori
 
-* motortyper og motorkobling
+## Motorer
+
+### Motorplader
+
+### 3 faset asynkron motor
+* Kobles på 2 måder: Trekant og Stjerne. 
+
+* Trekant = høj spænding, lav strøm
+* stjerne = lav spænding, høj strøm. 
+### Stjerne-Trekant motor
+Lavet så den først er i stjernekobling, og derefter trekantkobling. Grunden til at man gør det sådan, er fordi det så er nemmere at trække en stor motor igang, fordi stjernekoblingen har en lavere effekt.
+
+### Dahlandermotor (2-trins motor)
+En dahlandermotor fungerer ved at den er trekantkoblet, men at der er 2 spoler per side, og 
