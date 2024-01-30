@@ -124,17 +124,48 @@ $$∠φ = sin^{-1}\bigg(\frac{mod}{hyp}\bigg)$$
 $$∠φ = tan^{-1}\bigg(\frac{mod}{hos}\bigg)$$
 
 ## 1-faset kredsløbsteori
+* Serieforbindelse = regner med spænding
+* Parallelforbindelse = regner med strøm
+
+
 Der er 3 typer belastninger i et vekselstrømskredsløb:
 
 **Ohmsk:**
 * Når man har en ohmsk belastning, så udregner man det på samme måde som i et jævnstrømskredsløb.
 
 **Induktiv:**
-* 
+* Induktiv belastning vil forskyde strømmen 90 grader bagud ift spænding, eller forskyde spænding 90 grader forud ift strømmen.
+* spændingstrekant til venstre, strømtrekant til højre. 
 
 **Kapacitiv:**
+* Kapacitiv belastning ivl forskyde strømmen 90 grader forud ift spænding, eller forskyde spænding 90 grader bagud ift strømmen.
+* spændingstrekant til højre, strømtrekant til venstre.
 
+**Navne:**
 
+* $U$ = klemspænding
+* $I$ = strøm
+* $Z$ = impedans / samlet modstand
+* $S$ = Samlet effekt
+* $U_V$ = ren ohmsk spænding
+* $I_V$ = ren ohmsk strøm
+* $R$ = ren ohmsk modstand
+* $P$ = ren ohmsk effekt
+* $U_L$ = induktiv spænding
+* $I_L$= induktiv strøm
+* $X_L$= induktiv modstand
+* $Q_L$ = induktiv effekt
+* $U_C$ = kapacitiv spænding
+* $I_C$ = kapacitiv strøm
+* $X_C$ = kapacitiv modstand
+* $Q_C$ = kapacitiv effekt
+
+**Formler:** 
+$$X_L = 2*π*F*L$$
+$$X_C = \frac{10^6}{2*π*F*C}$$
+$$C = \frac{500000}{π*f*X_C}$$
+$$cosφ = \frac{hos}{hyp} = \frac{U_V}{U} = \frac{I_V}{I} = \frac{R}{Z} = \frac{P}{S} $$
+$$S = \sqrt{P^2 + Q_L^2}$$
 
 # 3-faset vekselstrømsteori
 
