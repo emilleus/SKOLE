@@ -271,6 +271,15 @@ Molekylernes opbygning
 ![](image-6.png)
 
 ## Grundstoffet Carbon
+
+
+
+
+
+
+
+
+
 # Mængdeberegninger
 
 # Blandinger
