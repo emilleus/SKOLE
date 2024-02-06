@@ -82,6 +82,7 @@ Strukturen af skallen i de første 18 grundstoffer er lineær; den fylder den in
 Grundstofferne i Hovedgrupperne vil oftest danne bindinger på sådan en måde, så de opfylder oktetreglen. Man siger, at alle grundstofferne gerne vil blive til ædelgasser. Dvs at et grundstof i hovedgruppe 6  vil oftest gå sammen med et grundstof fra gruppe 2, så de kan opfylde oktetreglen sammen. 
 
 # Ioner og ionforbindelser
+En ionforbindelse er en binding mellem et ikke-metal og et metal grundstof. 
 
 En ion er et stof, som mangler/ har for mange elektroner. 
 
@@ -166,6 +167,26 @@ et eksempel på en fældningsreaktion er når man blander sølv(I)nitrat ($AgNO_
 Man konstanterer om en reaktion er endoterm eller exoterm ved at måle temperatur på den væske som reaktionen tager sted i, f.eks.
 
 # Kovalent binding
+
+## Rækkefølge
+Når man skriver kemiske forbindelser, der består af 2 ikke-metaller, så skriver man de 2 grundstoffer i denne rækkefølge:
+1. $B$
+2. $Si$
+3. $C$
+4. $As$
+5. $P$
+6. $N$
+7. $H$ 
+8. $Te$
+9. $Se$
+10. $S$ 
+11. $O$ 
+12. $At$
+13. $I$
+14. $Br$ 
+15. $Cl$ 
+16. $F$
+
 
 **forskel på ionbinding og kovalent binding:**
 |Ion|Kovalent|
