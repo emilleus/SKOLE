@@ -62,7 +62,7 @@ $$tan^{-1}(-2)=-63,44°$$
 
 Derefter skal man tage den numeriske værdi af en vinkel minus den anden, så man er efterladt med en positiv vinkel.
 
-$$tanV=|V_1-V_2|=71,57-63,44=8,13°$$
+$$tanV=V_1-V_2=71,57-(-63,44)=135°$$
 * Den positive værdi af den ene vinkel minus den anden vinkel. 
 * her tager man den _numeriske værdi._ det betyder at man tager tallet, om det er positivt eller negativt, og laver det positivt. 
 
