@@ -240,7 +240,37 @@ Man skal forstille sig at hovedatomet sidder i midten af tetraeden, og hjørnern
 3. 107,3°
 4. 109,5°
 
+## Rumlige formler
 
+Rumlige formler er hvordan man kan skrive en formel for en kovalent binding, så man ved hvordan den ser ud i 3D.
+* Normal linje = fronten af tegningen
+* stiplet linje = binding bagud
+* kile = binding fremad
+
+![Alt text](image-3.png)
+
+## Molekyler
+* Fast tilstandsform = molekyler sidder i et gitter
+* Flydende tilstandform = kan bevæge sig rund mellem hinanden
+* gas-tilstandsform = kan bevæge sig fuldkommen frit
+
+![Alt text](image-4.png)
+
+**Smeltepunkt og Kogepunkt for forskellige stoffer:**
+
+![Alt text](image-5.png)
+
+Molekylernes opbygning
+
+## Forskellige bindinger
+* Enkeltbindinger = $Cl_2$, der er grundstofferne kun bundet med 1 elektron hver.
+* Dobbeltbindinger = $CO_2$, der er C og O forbundet med 2 elektroner hver. 
+* Trippeltbindinger = $N_2$, der er nitrogen bundet med 3 elektroner.
+
+## Ændring i tilstandsform
+![](image-6.png)
+
+## Grundstoffet Carbon
 # Mængdeberegninger
 
 # Blandinger
