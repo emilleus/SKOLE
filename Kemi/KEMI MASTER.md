@@ -217,6 +217,7 @@ Når man skriver kemiske forbindelser, der består af 2 ikke-metaller, så skriv
 * en kovalent binding opfylder stadig oktetreglen: den deler bare elektronen.
 
 ## Elektron-prik-formel
+
 **Eksempler på Kovalente bindinger og deres elektronprikformler:**
 
 ![
@@ -224,12 +225,21 @@ Når man skriver kemiske forbindelser, der består af 2 ikke-metaller, så skriv
 
 ![Alt text](image-1.png)
 
-man laver den yderste skal, først 4 fordelt rundt om atomet, og hvis der er mere end 4, så skal man begynde at lave dem i par. 
-* hvor mange prikker som man skal lave, kommer an på, hvor mange elektroner der er i yderste skal, eller hvilken hovedgruppe at de hører til.
+* når man skal tegne kovalente bindinger, så skal man tegne den yderste skal. DVS at oxygen har 6 prikker, og hydrogen har 1 prik.
 
 * et atom kan kun binde sig, hvis der er et ledigt elektron, aka at der ikke er et elektronpar. 
 
-* når man skal tegne en binding, skal man bruge en vinkel på 104,5°. 
+Når man skal beskrive den rumlige opbygning af de tre molekyler, så skal man bruge en figur som hedder en tetraeder, som ser sådan her ud:
+
+![Alt text](image-2.png)
+
+Man skal forstille sig at hovedatomet sidder i midten af tetraeden, og hjørnerne så er de mulige tilslutningssteder som der er. 
+**vinkler baseret på antal tilslutninger:**
+1. 0°
+2. 104,5°
+3. 107,3°
+4. 109,5°
+
 
 # Mængdeberegninger
 
