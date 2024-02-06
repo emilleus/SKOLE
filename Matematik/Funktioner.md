@@ -19,7 +19,7 @@ $$y=\frac{1}{x}$$
 man kan sige, at groft sagt, så ”y aftager i samme takt som x vokser”, hvilket betyder, at hvis x vokser med 5 gange, så bliver y 5 gange mindre.
 
 **Beregning af stigningstallet & skæring på y-aksen ud fra 2 punkter**
-$$a=tanV=\frac{y^2-y^1}{x^2-x^1}$$
+$$a=\frac{y^2-y^1}{x^2-x^1}$$
 $$b = y_1-a*x_1$$
 - Hvis vi har 2 punkter, som hedder (9,3) og (6,5), så regner man det ud sådan her:
 $$a=\frac{9-6}{3-5}$$
