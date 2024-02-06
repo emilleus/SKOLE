@@ -158,7 +158,7 @@ et eksempel på en fældningsreaktion er når man blander sølv(I)nitrat ($AgNO_
 
 **Skema over opløselighed:**
 
-![](Opløselighedsskema.jpg)
+![](Opløselighedsskema.jpg) 
 
 ## Exoterme og endoterme reaktioner
 * Exoterme reaktioner _afgiver_ energi. 
@@ -187,6 +187,8 @@ Når man skriver kemiske forbindelser, der består af 2 ikke-metaller, så skriv
 15. $Cl$ 
 16. $F$
 
+* når man skal navngive et stof, så sætter man grundstofferne sammen i rækkefølgen dikteret ovenfor, og det sidste grundstof skal så slutte på "id". 
+
 
 **forskel på ionbinding og kovalent binding:**
 |Ion|Kovalent|
@@ -214,11 +216,16 @@ Når man skriver kemiske forbindelser, der består af 2 ikke-metaller, så skriv
 
 * en kovalent binding opfylder stadig oktetreglen: den deler bare elektronen.
 
-
-
 ## Elektron-prik-formel
+**Eksempler på Kovalente bindinger og deres elektronprikformler:**
+
+![
+](image.png)
+
+![Alt text](image-1.png)
 
 man laver den yderste skal, først 4 fordelt rundt om atomet, og hvis der er mere end 4, så skal man begynde at lave dem i par. 
+* hvor mange prikker som man skal lave, kommer an på, hvor mange elektroner der er i yderste skal, eller hvilken hovedgruppe at de hører til.
 
 * et atom kan kun binde sig, hvis der er et ledigt elektron, aka at der ikke er et elektronpar. 
 
