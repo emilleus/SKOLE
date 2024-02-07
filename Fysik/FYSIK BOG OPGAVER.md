@@ -107,3 +107,19 @@ Beregn opdriften på en 250m^3 heliumballon.
 V-ballon = 250m3
 
 $$F_{op} = ρ*V*g=1,29*250*9,82 = 3166.95N$$
+
+## Opgave Ø4.2
+En trykflaske på 10,0L indeholder 1,31kg oxygen (molmasse 32g/mol)
+Beregn gassens tryk ved 20 C
+Beregn dernæst trykket, hvis flasens temperatur i tilfælde af brand stiger til f.eks 400C
+$$p= \frac{n*R*T}{V}$$
+$$n = \frac{m}{M}$$
+n = 40,94
+
+p = 9973297,191Pa
+
+p = 9,97MPa
+
+P400 = 22901330,39Pa
+
+22,9MPa
