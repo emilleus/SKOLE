@@ -271,10 +271,30 @@ Molekylernes opbygning
 ![](image-6.png)
 
 ## Grundstoffet Carbon
+**Forskel på diamant og grafit:**
+* Diamant består af 5 carbon molekyler, og grafit består kun af 4.
+* Diamant's gittermodel ligner en tertaeder, hvor carbon's er flade dele med vinkler på 120 grader. 
+
+![Alt text](image-7.png)
+
+* De har begge to et smeltepunkt på over 3500 grader C. 
+
+## Elektronnegativitet
+
+Hvis man tager f.eks $H_2$, så ejer hvert af H-atomerne 50% af det fælles elektronpar. Hvis man derimod kigger på $H-Cl$, så vil $Cl$ atomet trække mere i elektronparret end $H$ vil. Derfor siger man, at chlor er mere elektronnegativt end hydrogen er.
+
+Man bruger $δ$ (delta) til at angive positiv og negativ elektronnegativitet sammenlignet med andre atomer. f.eks:
+$$H^{δ+}Cl^{δ-}$$
+(ikke den rigtige måde at skrive det på, se billede:)
+
+![Alt text](image-8.png)
+
+* de små ladninger kalder man for delladninger, og en binding af den her slags kalder man for en polær kovalent binding.
 
 
+***Skema over polære kovalente bindinger:**
 
-
+![Alt text](image-9.png)
 
 
 
