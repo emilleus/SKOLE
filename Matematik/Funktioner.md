@@ -68,3 +68,8 @@ Andengradspolynomier hænger sammen med Andengradsligninger, fordi man bruger fo
 **Toppunktsformlen:**
 * Man finder et koordinatpunkt med den her formel.
 $$T_p=\bigg(\frac{-b}{2a},\frac{-d}{4a}\bigg)$$
+
+**Diskriminantformlen:**
+$$x = \frac{-b±\sqrt{d}}{2a}$$
+$$d = b^2 -4ac$$
+
