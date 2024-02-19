@@ -62,7 +62,7 @@ Et atom består af 3 grunddele: Protoner, Neutroner, og elektroner.
 * Atommasse måles i enheden u. 
 * $1u=\frac{1}{12}$ af $^{12}_6C$-atomets masse. 
 
-når man skal udregne gennemsnitsmassen af et grundstof, tager man 100.000 atomer af et grundstof, og finder ud af hvor mange af de forskellige isotoper der vil være i, og regne den gennemsnitlige atomvægt ud, f.eks for carbon: 
+når man skal udregne gennemsnitsmassen af et grundstof, tager man 100.000 atomer af et grundstof, og finder ud af hvor mange af de forskellige fer der vil være i, og regne den gennemsnitlige atomvægt ud, f.eks for carbon: 
 $$\frac{98892*12,00000+1108*13,00335}{100000} = 12,011u$$
 
 ## Grundstoffernes periodesystem
@@ -310,6 +310,22 @@ $$ρ=\frac{m}{V}$$
 $$H_2O=(1,008*2)+16,00=18,016u$$
 $$C_2H_5OH=(12,011*2)+(1,008*6)+15,94=46,01u$$
 $$Na_2SO_4*10H_2O=$$
+
+
+* Unit vægten af et stof vil være det samme som i gram, hvis man har præcis 1 mol af stoffet. 
+
+
+* Avogadros konstant = et stof har molekylemassen $x$ u, og 1 mol af det stof har massen $x$ g, og en molar massen på $x$ g/mol. 
+
+* symbolet for molarmasse = M (store m. )
+
+
+* Det er den mindste mol som afgør hvad man får ud på den anden side. 
+
+$$2C_8H_{18}+26O_2 =16CO_2+18H_2O$$
+
+$$n = \frac{m}{M}$$
+
 
 # Blandinger
 

@@ -84,3 +84,8 @@ Beregn formelmasser for følgende:
 Beregn det procentiske vandindhold i krystalsoda. Stoffets formel er $Na_2CO_3*10H_2O$. 
 
 $Na_2CO_3*10H_2O$ = $\frac{82.998}{189,154}=56,12\%$
+
+## Opgave 60: 
+a) hvor mange gram mol af $AgNO_3$ skal man afveje? -6.2g
+b) hvor mange gram $AgCl$? = 10,462g
+c) bundfaldet filtreres fra. det vejer 20,4 g, hvor stor en procentdel er det? = 97,5%
