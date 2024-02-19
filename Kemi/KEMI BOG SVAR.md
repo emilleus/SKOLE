@@ -71,4 +71,16 @@ Skriv formler for følgende stoffer:
 * phosphorpentachlorid = $PCl_5$
 * tetraphospphordecaoxid = $P_4O_{10}$
 
+## Opgave 46:
+Beregn formelmasser for følgende: 
 
+* $H_2SO_4$ = 98,07U
+* $AlCl_3$ = 133,34u
+* $Al_2(SO_4)_3$ = 342,15u
+* $FeSO_4*7H_2O$ = 278,019u
+* $CH_3CH_2OH$ = 46,069u
+
+## Opgave 47:
+Beregn det procentiske vandindhold i krystalsoda. Stoffets formel er $Na_2CO_3*10H_2O$. 
+
+$Na_2CO_3*10H_2O$ = $\frac{82.998}{189,154}=56,12\%$

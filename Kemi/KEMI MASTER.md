@@ -302,6 +302,15 @@ $$H^{δ+}Cl^{δ-}$$
 
 # Mængdeberegninger
 
+## Densitet
+
+* Densitet skrives med ρ (rho).
+$$ρ=\frac{m}{V}$$
+
+$$H_2O=(1,008*2)+16,00=18,016u$$
+$$C_2H_5OH=(12,011*2)+(1,008*6)+15,94=46,01u$$
+$$Na_2SO_4*10H_2O=$$
+
 # Blandinger
 
 # Indblik i organisk kemi
