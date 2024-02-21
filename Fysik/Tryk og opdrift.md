@@ -8,7 +8,7 @@
 * $g$ = tyngdeaccelerationen, konstant på 9,82 $N$/kg
 * $F_t$ = tyngdekraft, målt i newton ($N$)
 * $ρ$= densitet, målt i kg/$m^3$
-
+* $M$ = molarmasse, målt i mol/gc
 
 ## Tryk
 
