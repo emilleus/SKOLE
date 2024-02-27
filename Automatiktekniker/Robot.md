@@ -14,4 +14,8 @@ det er det vi skal begynde på nu.
 
 ### Koordinatsystem
 
-* 
+* World er det store koordinatsystem som robotten arbejder i - starter i (0,0,0). Det er det punkt som alle bases kalibreres efter. Det skal være et sted robotten kan nå.
+
+* Base - der hvor man har monteret robotten. der kan defineres flere bases.
+
+world er selve robottens nul-punkt, og base har så et koordinat til world, som er nul-punktet i base-koordinatsystemet.
