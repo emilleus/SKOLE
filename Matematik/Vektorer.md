@@ -36,7 +36,7 @@ a_2\\
 \end{pmatrix}$$
 
 ## Tværvektor
-Formel for tværvektor: 
+Formel for tværvektor: (hatte vektor)
 $$\hat{\vec{a}}=\begin{pmatrix}
 -a_2\\
 a_1\\
@@ -52,4 +52,41 @@ b_2-a_2\\
 
 ## Længde af vektor
 Formel:
-$$|\vec{a}|=\sqrt{a^2_1+a^2_2}
+$$|\vec{a}|=\sqrt{a^2_1+a^2_2}$$
+
+Vektor mellem 2 punkter:
+
+$$\vec{|AB|}=\sqrt{(b_1-a_1)^2+(b_2-a_2)^2}$$
+
+
+## Regne med vektorer
+
+Addition:
+$$\vec{a}+\vec{b}=\begin{pmatrix}
+a_1+b_1\\
+a_2+b_2\\
+\end{pmatrix}$$
+
+Subtraktion:
+$$\vec{a}+\vec{b}=\begin{pmatrix}
+a_1-b_1\\
+a_2-b_2\\
+\end{pmatrix}$$
+
+Gange:
+$$t*\vec{a}=\begin{pmatrix}
+t*a_1\\
+t*a_2\\
+\end{pmatrix}$$
+* $t$ er det tal man vælger at gange med. 
+
+## Skalarprodukt
+Man kan ikke gange vektorer sammen, så derfor finder man skalarproduktet istedet. Det giver et tal. 
+$$\begin{pmatrix}
+a_1\\
+a_2\\
+\end{pmatrix}*\begin{pmatrix}
+b_1\\
+b_2\\
+\end{pmatrix}=a_1*b_1+a_2*b_2$$
+    
