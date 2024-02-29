@@ -90,3 +90,8 @@ b_1\\
 b_2\\
 \end{pmatrix}=a_1*b_1+a_2*b_2$$
     
+
+## Vinkel mellem vektorer
+Hvis 2 vektorer udspringer fra samme punkt, så kan man udregne vinklen mellem dem således:  
+$$cos(v)=\frac{\vec{a}*\vec{b}}{\vec{|a|}*\vec{|b|}} $$
+$$\vec{a},\vec{b}\neq\vec{0}$$
