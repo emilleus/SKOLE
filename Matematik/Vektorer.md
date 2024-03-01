@@ -95,3 +95,5 @@ b_2\\
 Hvis 2 vektorer udspringer fra samme punkt, så kan man udregne vinklen mellem dem således:  
 $$cos(v)=\frac{\vec{a}*\vec{b}}{\vec{|a|}*\vec{|b|}} $$
 $$\vec{a},\vec{b}\neq\vec{0}$$
+
+## Projektion af vektor på vektor
