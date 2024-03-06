@@ -111,3 +111,25 @@ $$x=\frac{-7\pm\sqrt{289}}{6}$$
 $$x=\frac{-7\pm17}{6}=\begin{Bmatrix}\frac{-7+17}{6}=1,5 \\ \frac{-7-17}{6}=-4 \end{Bmatrix}$$
 
 4. og på den måde har vi fundet de 2 løsninger for andengradsligningen.
+
+
+## Faktorering
+
+### Kvadratrod:
+
+$$(a+b)^2=a^2+b^2+2ab$$
+$$(a+b)^3=a
+^3+b^3+3a^2b+3b^2a$$
+
+### Kubikrod: 
+
+$$f(x)=x^3+4x$$
+$$Δy=f(x_0+h)-f(x_0)$$
+$$x_0=2$$
+
+derfor:
+$$f(2+h)=$$
+$$(2+h)^3$$
+$$2^3+h^3+3*2^2h+3*2h^2$$
+$$8+h^3+12h+6h^2
+
