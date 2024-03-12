@@ -25,7 +25,7 @@ $$\vec{0}=\begin{pmatrix}
 ## Stedvektor
 Hvis man vil tegne en vektor til et punkt i planen fra (0,0), så bruger man en stedvektor:
 
-$$\vec{OA}$$
+$$\vec{AB}$$
 
 Stedvektoren til et punkt har samme koordinater som punktet selv.
 
@@ -46,9 +46,10 @@ a_1\\
 Formel:
 
 $$\vec{AB}=\begin{pmatrix}
-b_1-a_1\\
-b_2-a_2\\
+x_B-x_A\\
+y_B-y_A\\
 \end{pmatrix}$$
+når man har en vektor mellem 2 punkter, så skriver man det punkt man går fra først, og den punkt man går hen til sidst. ovenover går man fra A til B. 
 
 ## Længde af vektor
 Formel:
