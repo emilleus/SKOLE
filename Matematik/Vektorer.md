@@ -98,3 +98,22 @@ $$cos(v)=\frac{\vec{a}*\vec{b}}{\vec{|a|}*\vec{|b|}} $$
 $$\vec{a},\vec{b}\neq\vec{0}$$
 
 ## Projektion af vektor på vektor
+
+
+### Beskrive vektor med vinkel og længde 
+$$\vec{a}=62∠37,5$$
+$$a=tan(V)$$
+det hedder polære koordinater
+$$\vec{a}=\begin{pmatrix}
+x_a\\
+y_a\\
+\end{pmatrix}$$
+det hedder kartesiske koordinater
+
+
+### Kartesiske til polære koordinater
+man udregner længden af sin vektor, og finder tangens til vinklen til det, og tager $tan^{-1}$, og så har man vinklen og længden. 
+
+### Polære til kartesiske koordinater
+
+man tager og siger sin og cos til sin vinkel, og ganger det med længden af ens vektor. 

@@ -12,3 +12,9 @@ $$U = \frac{E}{Q}$$
 $$P = \frac{E}{t}$$
 
 
+## Joules lov: 
+$$P =R*I^2$$
+
+
+* Batteri bliver varmt, derfor er effektivitet ikke 100\%
+
