@@ -33,4 +33,16 @@ $$a_t=\lim_{h\to0}(a_s)$$
 
 $$y=f(x_0)+f'(x_0)*(x-x_0)$$
 
-* når man finder tangenten på den her måde, skal man bruge et punkt med et x og y koordinat. 
+* når man finder tangenten på den her måde, skal man bruge et punkt med et x koordinat, og så funktionen af x koordinatet.
+
+### Monotoniforhold
+
+Monotoniforhold handler om hvornår ens funktion er voksende, aftagende, eller på et vendepunkt. Man skriver monotonisætningerne således: 
+
+* $f′(x)>0$ for alle $x∈]a,b[⇒f$ voksende på $ ]a,b[$
+* $f′(x)<0$ for alle $x∈]a,b[⇒f$ aftagende på $]a,b[$
+* $f′(x)=0$ for alle $x∈]a,b[⇒f$ konstant på $]a,b[$
+
+Hvad sætningen ovenover betyder, for alle værdier over x, så er grafen voksende, og så lign med de andre udtryk. 
+
+Man kan hurtigt se hvor en funktion er voksende og aftagende ved at ploppe den differentierede funktion ind i en graf. 

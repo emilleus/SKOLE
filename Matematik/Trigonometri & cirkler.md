@@ -199,3 +199,8 @@ $$cos^{-1}(0,4825)=61,15°$$
 $$B = 180-28,45-61,15=90,4°$$
 
 6. og nu har vi alle værdier i trekanten, og har løst trekanten.
+
+## Radianer
+
+Hvis man skal omregne en vinkel: 
+$$x = \frac{v}{360}*2π$$    
