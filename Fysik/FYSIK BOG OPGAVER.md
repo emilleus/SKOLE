@@ -123,3 +123,19 @@ p = 9,97MPa
 P400 = 22901330,39Pa
 
 22,9MPa
+
+## Opgave Ø8,2
+20 grader opad ift. x-aksen
+
+man siger 180 grader rundt på en flade, og siden vi kender 70, og den er ens på vej ind og ud i luft, så er vinklen på den anden side 70. vi har en trekant, hvor der så mangler 20, og så er det derfor 20 igen. 
+
+## Opgave Ø8,4
+20,54 grader
+
+## Opgave Ø8,5
+1,36 brydningsindeks. 
+
+## Opgave Ø8,8
+a) 41,45 grader
+b) ingen løsning
+c) ingen løsning

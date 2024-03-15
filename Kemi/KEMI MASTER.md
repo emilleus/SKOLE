@@ -329,6 +329,23 @@ $$n = \frac{m}{M}$$
 
 # Blandinger
 
+## heterogen og homogen
+* Heterogen er når blandingen er tydelig - olie og vand
+* Homogen er når det ikke er - saftevand
+
+$$masse\%=\frac{m(A)}{m(blanding)}*100\%$$
+$$Vol\%=\frac{V(A)}{V(Blanding)}*100\%$$
+
+$$c = \frac{n}{v_{(L)}}$$
+
+enhed: M
+
+men ikke molarmasse, det står efter, og betyder mol/l.
+
+$$C_{før}*V_{før}=C_{efter}*V_{efter}$$
+
+* man må hælde syre i vand, men ikke vand i syre. 
+
 # Indblik i organisk kemi
 
 # Syre-basereaktioner

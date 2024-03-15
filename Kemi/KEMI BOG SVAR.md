@@ -89,3 +89,9 @@ $Na_2CO_3*10H_2O$ = $\frac{82.998}{189,154}=56,12\%$
 a) hvor mange gram mol af $AgNO_3$ skal man afveje? -6.2g
 b) hvor mange gram $AgCl$? = 10,462g
 c) bundfaldet filtreres fra. det vejer 20,4 g, hvor stor en procentdel er det? = 97,5%
+
+## Opgave 71: 
+Der skal laves 200ml 0,150M $Na_2So_4$.
+a) hvor stor en stofmængde $Na_2So_4$(s) skal der anvendes?
+$$02,*0,150=0,03mol
+b)
