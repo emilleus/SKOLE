@@ -90,15 +90,25 @@ a_2\\
 b_1\\
 b_2\\
 \end{pmatrix}=a_1*b_1+a_2*b_2$$
-    
 
 ## Vinkel mellem vektorer
 Hvis 2 vektorer udspringer fra samme punkt, så kan man udregne vinklen mellem dem således:  
 $$cos(v)=\frac{\vec{a}*\vec{b}}{\vec{|a|}*\vec{|b|}} $$
 $$\vec{a},\vec{b}\neq\vec{0}$$
 
-## Projektion af vektor på vektor
+En hurtig måde at finde ud af om en vinkel er spids, ret, eller stump, lyder sådan her:
+$$\vec{a}*\vec{b}>0=spids$$
+$$\vec{a}*\vec{b}<0=stump$$
+$$\vec{a}*\vec{b}=0=ret$$
 
+
+## Projektion af vektor på vektor
+$$\vec{a}_{\vec{b}}=\frac{\vec{a}*\vec{b}}{|\vec{b}|^2}*b$$
+* resultatet er 2 punkter til en vektor, ikke et tal.
+
+## Længde af projektion
+$$|\vec{a}_{\vec{b}}|=\frac{|\vec{a}*\vec{b}|}{|b|}$$
+* resultatet er et tal.
 
 ## Beskrive vektor med vinkel og længde 
 $$\vec{a}=62∠37,5$$
@@ -117,3 +127,14 @@ man udregner længden af sin vektor, og finder tangens til vinklen til det, og t
 ### Polære til kartesiske koordinater
 
 man tager og siger sin og cos til sin vinkel, og ganger det med længden af ens vektor. 
+
+## Determinant
+$$det(\vec{a}, \vec{b})=\hat{\vec{a}}*\vec{b}=a_1b_2-a_2b_1$$
+
+### Areal og determinant
+Arealet af en determinant af 2 vektorer, er lig med den numeriske værdi af determinanten.
+
+## finde funktion ud fra normalvektor og punkt. 
+$$a(x-x_0)+b(y-y_0)=0$$
+
+Hvis man kender en normalvektor til en linje, og man kender et punkt på linjen ($P_0$), kan man regne funktionen ud med ovenstående formel.
