@@ -348,6 +348,29 @@ $$C_{før}*V_{før}=C_{efter}*V_{efter}$$
 
 # Indblik i organisk kemi
 
+## Organisk kemi
+Organisk kemi er emiske forbindelser med carbon. Uorganisk kemi omhandler ikke-carbon forbindelser.
+* altid kovalente bindinger - ALLE BINDINGER
+* både enkeltbindinger, dobbeltbindinger og trippelbindinger
+* Quad-bindinger eksisterer ikke.
+* Der er meget hydrogen i organisk kemi.
+* Enkeltbinding kan dreje rundt (tetraede) - ethan, dobbelt er plan - ethen, og trippelt er linær - ethyn.
+
+
+* Enkeltbindiing = alk**an** kæde - $C_nH_{2n+2}$
+* Dobbeltbinding = alk**en** kæde - $C_nH_{2n}$
+* Trippeltbinding = alk**yn** kæde - $C_nH_{2n-2}$
+    
+Substitutionsreaktion bytter rundt med et andet atom
+
+additionsreaktion bliver sat direkte ind i reaktionen, ingen bytten rundt. 
+
+Eliminationsreaktion = fjerne atomer fra en reaktion, og erstatte dem med dobbelt eller trippelbindinger.
+
+når man arbejder med alkener, så skal retningen være efter alkenen, og ikke alkylen.
+
+
+
 # Syre-basereaktioner
 
 # Redoxreaktioner

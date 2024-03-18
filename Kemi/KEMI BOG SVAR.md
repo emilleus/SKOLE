@@ -93,5 +93,14 @@ c) bundfaldet filtreres fra. det vejer 20,4 g, hvor stor en procentdel er det? =
 ## Opgave 71: 
 Der skal laves 200ml 0,150M $Na_2So_4$.
 a) hvor stor en stofmængde $Na_2So_4$(s) skal der anvendes?
-$$02,*0,150=0,03mol
-b)
+$$02,*0,150=0,03mol$$
+
+## Opgave 79
+
+## Opgave 80
+
+## Opgave 82
+
+## Opgave 83
+
+## Opgave 84

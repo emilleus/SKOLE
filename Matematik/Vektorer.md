@@ -100,7 +100,7 @@ $$\vec{a},\vec{b}\neq\vec{0}$$
 ## Projektion af vektor på vektor
 
 
-### Beskrive vektor med vinkel og længde 
+## Beskrive vektor med vinkel og længde 
 $$\vec{a}=62∠37,5$$
 $$a=tan(V)$$
 det hedder polære koordinater
