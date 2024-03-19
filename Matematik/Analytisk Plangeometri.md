@@ -181,4 +181,3 @@ $$T_p=\bigg(\frac{-b}{2a},\frac{-d}{4a}\bigg)$$
 $$x = \frac{-b±\sqrt{d}}{2a}$$
 $$d = b^2 -4ac$$
 
-r

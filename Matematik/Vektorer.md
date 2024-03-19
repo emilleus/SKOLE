@@ -91,6 +91,11 @@ b_1\\
 b_2\\
 \end{pmatrix}=a_1*b_1+a_2*b_2$$
 
+Regneregler for skalarprodukt:
+$$\vec{a}*\vec{b}=\vec{b}*\vec{a}$$
+$$\vec{a}*(\vec{b}+\vec{c})=\vec{a}*\vec{b}+\vec{a}*\vec{c}$$
+$$\vec{a}*\vec{a}=|\vec{a}|^2$$
+
 ## Vinkel mellem vektorer
 Hvis 2 vektorer udspringer fra samme punkt, så kan man udregne vinklen mellem dem således:  
 $$cos(v)=\frac{\vec{a}*\vec{b}}{\vec{|a|}*\vec{|b|}} $$
@@ -138,3 +143,5 @@ Arealet af en determinant af 2 vektorer, er lig med den numeriske værdi af dete
 $$a(x-x_0)+b(y-y_0)=0$$
 
 Hvis man kender en normalvektor til en linje, og man kender et punkt på linjen ($P_0$), kan man regne funktionen ud med ovenstående formel.
+
+Vektorer er ortogonale, hvis deres indre produkt er nul.
