@@ -86,3 +86,7 @@ $$\int{f(x)-g(x)dx}=\int{f(x)dx}-\int{g(x)dx}$$
 
 #### Produkt af konstant og funktion
 $$\int{c*f(x)dx}=c*\int{f(x)dx}$$
+
+### Bestemt integral og areal
+* Forskellen på en ubestemt og en bestemt integral er at i den ubestemte finder man frem til en funktion, hvor i den bestemte finder man frem til et tal.
+* det tal man finder frem til er lig med arealet under en funktion, hvis hele området man udregner er over 0 på y-aksen.
