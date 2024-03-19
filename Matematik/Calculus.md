@@ -46,3 +46,14 @@ Monotoniforhold handler om hvornår ens funktion er voksende, aftagende, eller p
 Hvad sætningen ovenover betyder, for alle værdier over x, så er grafen voksende, og så lign med de andre udtryk. 
 
 Man kan hurtigt se hvor en funktion er voksende og aftagende ved at ploppe den differentierede funktion ind i en graf. 
+
+## Integralregning
+
+### Stamfunktion
+Hvis den oprindelige funktion hedder $f$, så hedder stamfunktionen $F$. 
+
+man kan sige, at $F$ er en stamfunktion til $f$, hvis:
+$$F'(x)=f(x)$$
+
+#### Uendeligt mange stamfunktioner
+alle konstanter, dvs ting i funktionen uden et x, bliver glemt når man finder stamfunktionen. dvs at hvis man differentierer $x^2$ og $x^2 +4$, så får man det samme resultat, $2x$.
