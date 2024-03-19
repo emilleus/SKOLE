@@ -75,3 +75,14 @@ $$\int{f(x)dx}=F(x)$$
 |$e^{kx}$|$\frac{1}{k}*e^x$
 |$\sqrt{x}$|$\frac{2}{3}x^{3/2}=\frac{2}{3}(\sqrt{x})^3 $
 |$ln(x)$|$x*ln(x)-x$
+
+### Regneregler for integraler
+
+#### Sumreglen:
+$$\int{f(x)+g(x)dx}=\int{f(x)dx}+\int{g(x)dx}$$
+
+#### Differensreglen:
+$$\int{f(x)-g(x)dx}=\int{f(x)dx}-\int{g(x)dx}$$
+
+#### Produkt af konstant og funktion
+$$\int{c*f(x)dx}=c*\int{f(x)dx}$$
