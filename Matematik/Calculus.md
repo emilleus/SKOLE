@@ -57,3 +57,21 @@ $$F'(x)=f(x)$$
 
 #### Uendeligt mange stamfunktioner
 alle konstanter, dvs ting i funktionen uden et x, bliver glemt når man finder stamfunktionen. dvs at hvis man differentierer $x^2$ og $x^2 +4$, så får man det samme resultat, $2x$.
+
+### Ubestemt integral
+
+$$\int{f(x)dx}=F(x)$$
+
+### Integrerede funktioner
+|$f(x)$|$F(x)$|
+|-|-|
+|$x$|$\frac{1}{2}x^2$|
+|$kx$|$\frac{k}{2}x^2$|
+|$k$|$kx$|
+|$x^n$|$\frac{1}{n+1}x^{n+1}$
+|$\frac{1}{x}$|$ln(\|x\|)$
+|$a^x$|$\frac{a^x}{ln(a)}$
+|$e^x$|$e^x$
+|$e^{kx}$|$\frac{1}{k}*e^x$
+|$\sqrt{x}$|$\frac{2}{3}x^{3/2}=\frac{2}{3}(\sqrt{x})^3 $
+|$ln(x)$|$x*ln(x)-x$
