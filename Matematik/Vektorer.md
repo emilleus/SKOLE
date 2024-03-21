@@ -69,7 +69,7 @@ a_2+b_2\\
 \end{pmatrix}$$
 
 Subtraktion:
-$$\vec{a}+\vec{b}=\begin{pmatrix}
+$$\vec{a}-  \vec{b}=\begin{pmatrix}
 a_1-b_1\\
 a_2-b_2\\
 \end{pmatrix}$$
@@ -108,7 +108,7 @@ $$\vec{a}*\vec{b}=0=ret$$
 
 
 ## Projektion af vektor på vektor
-$$\vec{a}_{\vec{b}}=\frac{\vec{a}*\vec{b}}{|\vec{b}|^2}*b$$
+$$\vec{a}_{\vec{b}}=\frac{\vec{a}*\vec{b}}{|\vec{b}|^2}*\vec{b}$$
 * resultatet er 2 punkter til en vektor, ikke et tal.
 
 ## Længde af projektion
@@ -145,3 +145,8 @@ $$a(x-x_0)+b(y-y_0)=0$$
 Hvis man kender en normalvektor til en linje, og man kender et punkt på linjen ($P_0$), kan man regne funktionen ud med ovenstående formel.
 
 Vektorer er ortogonale, hvis deres indre produkt er nul.
+
+## Komposanter
+* Vi har opløst $\vec{a}$ i 2 komposanter $\vec{v}$ og $\vec{w}$
+
+en komposant er en del af det, som man beskriver en vektor med. f.eks beskriver man ovenstående a med 2 komposanter: v og w.    

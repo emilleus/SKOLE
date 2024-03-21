@@ -202,5 +202,9 @@ $$B = 180-28,45-61,15=90,4°$$
 
 ## Radianer
 
-Hvis man skal omregne en vinkel: 
-$$x = \frac{v}{360}*2π$$    
+Hvis man skal omregne grader til vinkel: 
+
+* 1 grad = $\frac{π}{180}$
+og så ganger man med graderne. det dur kun hvis radius er lig med 1. 
+
+$$vinkel i radianer = \frac{buelængde}{radius}$$
