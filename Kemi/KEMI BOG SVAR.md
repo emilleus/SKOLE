@@ -104,3 +104,11 @@ $$02,*0,150=0,03mol$$
 ## Opgave 83
 
 ## Opgave 84
+
+## Opgave 89
+skriv fuldstændigt afbrædningskema for $C_{14}H_{30}$.
+
+$$2C_{14}H_{30}+43O_2=28CO_2+30H_2O$$
+
+## Opgave 90
+$$2C_8H_{18}+17O_2=16CO+18H_2O$$

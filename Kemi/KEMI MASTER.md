@@ -8,6 +8,7 @@ Dette er dokumentet som skal redde mig fra Kemi C. Nu lægger jeg en masse energ
 **Grundstoffer**:
 * et grundstof er et stof, som ikke kan spaltes mere, f.eks hydrogen og oxygen. 
 * Et grundstof består af ens atomer.
+* et grundstof kan godt være $H_2$, fordi det kun er 1 grundstof, selvom det er 2 bundet sammen. 
 
 **Kemiske forbindelser**:
 * Hvis et stof ikke er et grundstof, er det en kemisk forbindelse, AKA en kombination af grundstoffer. 
@@ -132,6 +133,8 @@ En sammensat ion består af flere forskellige atomer, som er bundt sammen.
 * $PO_4^{3-}$ = phosphat
 * $NO_3^-$ = nitrat
 * $NH_4^+$ = ammonium
+
+bindingen mellem S og O f.eks er en kovalent binding, fordi der ikke er et metal involveret, også selvom det er en bestanddel i en ionforbindelse.
 
 **Jeg skal kunne ovenstående udenad.**
 
@@ -363,11 +366,27 @@ Organisk kemi er emiske forbindelser med carbon. Uorganisk kemi omhandler ikke-c
     
 Substitutionsreaktion bytter rundt med et andet atom
 
-additionsreaktion bliver sat direkte ind i reaktionen, ingen bytten rundt. 
+additionsreaktion bliver sat direkte ind i reaktionen, ingen bytten rundt. man bryder en dobbelt eller trippeltbinding. 
 
 Eliminationsreaktion = fjerne atomer fra en reaktion, og erstatte dem med dobbelt eller trippelbindinger.
 
 når man arbejder med alkener, så skal retningen være efter alkenen, og ikke alkylen.
+
+### Cycloalkaner og cycloalkener
+
+når det ikke er en linje, men istedet at de samler sig i en form, er det en cyclo-||-.
+
+### Oxygengruppe
+
+Hvis den indeholder en OH gruppe, er det en alkohol. 
+
+$CH_3OH$ =methanol
+
+$CH_3CH_2OH$ = Ethanol
+
+$COOH$ = Carboxylsyre
+
+* Man sætter syre på endelsen, når den har COOH i sig. 
 
 
 
