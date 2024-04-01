@@ -181,3 +181,6 @@ $$T_p=\bigg(\frac{-b}{2a},\frac{-d}{4a}\bigg)$$
 $$x = \frac{-b±\sqrt{d}}{2a}$$
 $$d = b^2 -4ac$$
 
+## Distanceformlen
+
+$$Dist(P,l)=\frac{ax_1+b-y_1}{\sqrt{a^2+1}}$$
