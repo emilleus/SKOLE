@@ -31,3 +31,7 @@ $I_B$ = belastningsstrømmen, strømmen man læser på mærkepladen.
 * Automatsikring = KB dimensionering. 
 
 Man vil også bruge automatsikring til det hele i nogle tilfælde, såsom hvis man ikke har en motor, men et varmelegeme istedetfor. 
+
+* side 260 - a, b , c ,d ,e 
+* Side 185 - forskellige kvadrater
+* Side 263 - korrektionsfaktorer, temoeratur og samlet fremføring
