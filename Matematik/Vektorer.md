@@ -110,6 +110,7 @@ $$\vec{a}*\vec{b}=0=ret$$
 ## Projektion af vektor på vektor
 $$\vec{a}_{\vec{b}}=\frac{\vec{a}*\vec{b}}{|\vec{b}|^2}*\vec{b}$$
 * resultatet er 2 punkter til en vektor, ikke et tal.
+* den lille vektor er den vektor som projektionen er parallel med, og den anden er den vektor som definerer længde og retning.
 
 ## Længde af projektion
 $$|\vec{a}_{\vec{b}}|=\frac{|\vec{a}*\vec{b}|}{|b|}$$
@@ -150,3 +151,5 @@ Vektorer er ortogonale, hvis deres indre produkt er nul.
 * Vi har opløst $\vec{a}$ i 2 komposanter $\vec{v}$ og $\vec{w}$
 
 en komposant er en del af det, som man beskriver en vektor med. f.eks beskriver man ovenstående a med 2 komposanter: v og w.    
+
+## Bevis af Projektion af vektor på vektor
