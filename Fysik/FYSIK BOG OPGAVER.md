@@ -139,3 +139,6 @@ man siger 180 grader rundt på en flade, og siden vi kender 70, og den er ens p�
 a) 41,45 grader
 b) ingen løsning
 c) ingen løsning
+
+## Opgave Ø9,1
+

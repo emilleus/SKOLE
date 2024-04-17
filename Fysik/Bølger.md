@@ -38,3 +38,18 @@ $$sin(φ_n)=\frac{λ*n}{d}$$
 * $λ$ = bølgelængden
 * $n$ = hvilken orden man arbejder med
 * $d$ = gitterkonstanten
+
+# Lydbølger
+
+## Bølgetyper
+
+* Lys går op og ned, lyd går fra side til side, når man taler om bølgetypen mellem de 2.
+
+$$V_{lyd}=331*\sqrt{\frac{T}{276K}}ms$$
+* temperatur er i kelvin.
+
+
+lyd er hurtigere i træ og metal end luft, se skema.
+
+$$hastighed = strækning / tid$$
+$$v=s/t$$
