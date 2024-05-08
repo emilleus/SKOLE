@@ -1,28 +1,19 @@
+## Enheder: 
+* $Δv$ = Hastighed, målt i m/s
+* $Δt$ = tid, målt i sekunder
+* $a$ = acceleration, målt i $m/s^2$
+* $s$ = strækning, målt i meter
+* $s_0$ = start i en strækning, målt i meter. (hvis man starter fra 100m, så er det en startcondition.)
 
+## Formler:
+
+Formel for hastighed:
 $$v=\frac{Δs}{Δt}$$
-
-omregning af km/t til m/s:
-$$90\frac{km}{t}=90*\frac{1000m}{3600s}$$
-konostant hastighed:
+Formel for konstant hastighed:
 $$s=v*t+s_0$$
-
-t/s graf:
-* grafen viser hvor genstanden befinder sig.
-* tid ud af første aksen
-* strækning op ad anden aksen. 
-
-//
-* konstant hastighed formlen fungerer på samme måde som for en lineær linje. 
-
-// t/v graf
-* tiden ud af første aksen
-* hastigeden er op af anden aksen. 
-
-// hastighed ved ikke-lineære stræækningsgrafer
-* Forskellige hastigheder afhægnig af hvor vi aflæser.
-* Hastigheden ændrer sig.
-* Vil man finde hastigheden til et bestemt tidspunkt, tegner man en tangent til dette tidspunkt. 
-* hældningen på denne tangent, er hastigheden til dette tidspunkt. 
-* (er det ikke calculus?)
-
-## hastighed ved konstant acceleration
+Formel for Acceleration:
+$$a=\frac{Δv}{Δt}$$
+Formel for hastighed ved konstant acceleration:
+$$v=a*t+v_0$$
+Formel for strækning ved konstant acceleration:
+$$s=\frac{1}{2}*a*t^2+v_0*t+s_0$$
