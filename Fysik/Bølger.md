@@ -45,6 +45,8 @@ $$sin(φ_n)=\frac{λ*n}{d}$$
 
 * Lys går op og ned, lyd går fra side til side, når man taler om bølgetypen mellem de 2.
 
+$$v=λ*f$$
+
 $$V_{lyd}=331*\sqrt{\frac{T}{276K}}ms$$
 * temperatur er i kelvin.
 

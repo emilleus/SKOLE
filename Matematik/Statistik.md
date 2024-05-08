@@ -12,6 +12,6 @@
 
 ## Ugrupperet statistik
 
-* Kvartiler er statistikken opdelt i 4. 
+* Kvartiler er s tatistikken opdelt i 4. 
 * Medianen er midten af værdierne når de er sorteret.
 * Middelværdien er gennemsnitten af værdierne.
