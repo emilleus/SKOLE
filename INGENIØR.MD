@@ -1,5 +1,5 @@
 ## SKILLS: 
 * CAD Design - Fusion, osv
-* Circuit Design - 
-* Low Level Programming
-* MATLAB eller anden sim software
+* Circuit Design - Altium design
+* Low Level Programming - Rust, C
+* MATLAB eller anden sim software  
