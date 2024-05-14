@@ -142,3 +142,6 @@ c) ingen løsning
 
 ## Opgave Ø9,1
 
+## Opgave Ø11.3
+Først finder jeg fjederkraften, fordi jeg kender massen og tyngdeaccelerationen
+$$500*9,82$$
