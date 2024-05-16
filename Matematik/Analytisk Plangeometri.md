@@ -184,3 +184,38 @@ $$d = b^2 -4ac$$
 ## Distanceformlen
 
 $$Dist(P,l)=\frac{ax_1+b-y_1}{\sqrt{a^2+1}}$$
+
+* $x_1$ og $y_1$ er punktets koordinater, $a$ og $b$ er linjens hældningskoefficent og skæring.
+
+## Skæring mellem linje og cirkel
+der er 3 muligheder for skæring mellem linje og cirkel: enten skærer den ikke, så der er 0 skæringer, ellers tangerer den cirklen, hvor der er 1 skæring, og ellers skærer den igennem cirklen, hvor der så er 2 skæringer. 
+
+Den måde man afgør om linjen skærer cirklen, er ved at bruge cirklens centrum som $x_1$ og $y_1$ koordinater, og så beregne afstanden. Hvis afstanden er mindre en radius, er der 2 skæringer, og hvis den er lig med radius, er der 1 skæring, og hvis den er større end radius, er der ingen skæringer.
+
+Hvis man vil finde skæringspunkterne, så skal man ophæve sin cirkels ligning. Det gør man ved at bruge sin linjes formel som y-koordinat, og så lave en andengradsligning, sådan her:
+$$(x-2)^2+(y+1)^2=20$$
+$$y=x+3$$
+$$(x-2)^2+(x+3+1)^2=20$$
+$$(x-2)^2+(x+4)^2=20$$
+$$$$
+## Skæringspunkt mellem 2 lineære funktioner
+hvis man vil finde skæringspunktet mellem 2 linjer, skal man først opstille dem så de er lig med hinanden:
+$$f(x)=g(x)$$
+
+derefter skal man udligne udtrykkene med hinanden, så man får et svar:
+$$4x-1=x+5$$
+$$3x=6$$
+$$x=2$$
+på den måde har man fundet x-koordinatet. Hvis man vil finde y-koordinatet, så skal man bare indsætte sin x-værdi i sin ligning:
+$$4(2)-1$$
+$$7$$
+
+## skæringspunkt mellem 2 andengradsfunktion & anden funktion
+samme som ovenstående, men istedet for man det til at ligne en ordnet andengradsfunktion:
+$$-x^2+2=-2x+2$$
+$$-x^2+2x=0$$
+så finder man diskriminanten, og løser opgaven:
+$$d=b^2-4ac=2^2-4*(-1)*0=4$$
+og så finder man sine 2 løsninger:
+$$x=\frac{-b\pm\sqrt{d}}{2a}=\frac{-2\pm\sqrt{4}}{2*(-1)}=0 \&2$$
+når man så skal finde sine 2 y-værdier for hvor de skærer, skal man bare indsætte sine 2 x-værdier i en af forskrifterne - vi bestemmer selv hvilken, og ser hvad det bliver til:

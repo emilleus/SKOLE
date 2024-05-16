@@ -134,6 +134,13 @@ man udregner længden af sin vektor, og finder tangens til vinklen til det, og t
 
 man tager og siger sin og cos til sin vinkel, og ganger det med længden af ens vektor. 
 
+**Polære koordinater:**
+$$r=\sqrt{x^2+y^2}$$
+$$θ=tan^{-1}(\frac{y}{x})$$
+**$x$ og $y$ koordinater:**
+$$x=r*cosθ$$
+$$y=r*sinθ$$
+
 ## Determinant
 $$det(\vec{a}, \vec{b})=\hat{\vec{a}}*\vec{b}=a_1b_2-a_2b_1$$
 
