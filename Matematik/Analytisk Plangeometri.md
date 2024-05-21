@@ -219,3 +219,5 @@ $$d=b^2-4ac=2^2-4*(-1)*0=4$$
 og så finder man sine 2 løsninger:
 $$x=\frac{-b\pm\sqrt{d}}{2a}=\frac{-2\pm\sqrt{4}}{2*(-1)}=0 \&2$$
 når man så skal finde sine 2 y-værdier for hvor de skærer, skal man bare indsætte sine 2 x-værdier i en af forskrifterne - vi bestemmer selv hvilken, og ser hvad det bliver til:
+
+## Funktioner af 2 Variabler.
