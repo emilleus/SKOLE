@@ -45,3 +45,10 @@ $$I_B\le I_N\le I_Z$$
 * $I_Z$ = Kabel / lednings strømværdi. 
 
 ### OB-Dimensionering
+
+### ΔU-Dimensionering
+$$R_l=\frac{R_{aflæst}*længden}{1000}$$
+$$ΔU_{maskine}=I_B*R_l*\sqrt{3}*cosφ$$
+$$ΔU_{maskine}\%=\frac{ΔU_{maskine}*100}{400}$$
+
+### KB-dimensionering
