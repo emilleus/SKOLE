@@ -62,6 +62,8 @@ alle konstanter, dvs ting i funktionen uden et x, bliver glemt når man finder s
 
 $$\int{f(x)dx}=F(x)$$
 
+* husk $c$ på slutningen, for at sige at der også kan være en konstant på. 
+
 ### Integrerede funktioner
 |$f(x)$|$F(x)$|
 |-|-|
