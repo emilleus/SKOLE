@@ -167,6 +167,15 @@ $$C = \frac{500000}{π*f*X_C}$$
 $$cosφ = \frac{hos}{hyp} = \frac{U_V}{U} = \frac{I_V}{I} = \frac{R}{Z} = \frac{P}{S} $$
 $$S = \sqrt{P^2 + Q_L^2}$$
 
+## Fasekompensering
+
+**Begreber:**
+* $I$ = startstrøm, målt i ampere
+* $I_V$ = Virkestrøm, målt i ampere
+* $φ$ = effektivitetsvinkel, målt i enten grader, cosφ eller sinφ. 
+* $I_{ny}$ = strøm efter fasekompensering
+* $I_{wl}$ = wattløse strømme, målt i ampere. 
+
 # 3-faset vekselstrømsteori
 
 ## Motorer
