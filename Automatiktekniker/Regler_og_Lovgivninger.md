@@ -14,7 +14,7 @@ når man snakker sikkerhedsvurdering, så skal man bruge 13849-1 og 60204-1
 DS/EN 60204-1_2018 er den standard vi bruger.
 
 * fra strømforsyningen til maskinens dele. 
-$$I_B < I_{NOB} < I_Z$$
+$$I_B < I_{N} < I_Z$$
 
 $I_B$ = belastningsstrømmen, strømmen man læser på mærkepladen.
 
@@ -35,3 +35,13 @@ Man vil også bruge automatsikring til det hele i nogle tilfælde, såsom hvis m
 * side 260 - a, b , c ,d ,e 
 * Side 185 - forskellige kvadrater
 * Side 263 - korrektionsfaktorer, temoeratur og samlet fremføring
+
+## Dimensionering
+$$I_B\le I_N\le I_Z$$
+
+**Begreber:**
+* $I_B$ = Belastningsstrømmen - Hvor meget strøm motoren bruger. 
+* $I_N$ = Beskyttelsesudstyrets mærkestrøm - Automatsikrings størrelse, indstilling af termorelæ.
+* $I_Z$ = Kabel / lednings strømværdi. 
+
+### OB-Dimensionering
