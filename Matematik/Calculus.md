@@ -94,3 +94,9 @@ $$\int{c*f(x)dx}=c*\int{f(x)dx}$$
 * det tal man finder frem til er lig med arealet under en funktion, hvis hele området man udregner er over 0 på y-aksen.
 
 $$\int_a^b{f(x)dx}=[F(x)]^b_a=F(b)-F(a)$$
+
+### Areal mellem 2 grafer
+
+$$Areal_{fg}=\int_a^b{(f(x)-g(x))dx}$$
+
+$a$ og $b$ er integrationsgrænser, og findes ved at sætte de 2 ligninger lig med hinanden, og så løse det som en andengradsligning.
