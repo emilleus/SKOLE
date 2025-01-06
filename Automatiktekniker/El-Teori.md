@@ -126,6 +126,7 @@ $$∠φ = tan^{-1}\bigg(\frac{mod}{hos}\bigg)$$
 ## 1-faset kredsløbsteori
 * Serieforbindelse = regner med spænding
 * Parallelforbindelse = regner med strøm
+* man kan ikke bare lægge modstande sammen i et kredsløb med parallelforbindelser. 
 
 
 Der er 3 typer belastninger i et vekselstrømskredsløb:
