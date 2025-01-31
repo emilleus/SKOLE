@@ -45,7 +45,9 @@ Monotoniforhold handler om hvornår ens funktion er voksende, aftagende, eller p
 
 Hvad sætningen ovenover betyder, for alle værdier over x, så er grafen voksende, og så lign med de andre udtryk. 
 
-Man kan hurtigt se hvor en funktion er voksende og aftagende ved at ploppe den differentierede funktion ind i en graf. 
+Man kan hurtigt se hvor en funktion er voksende og aftagende ved at ploppe den differentierede funktion ind i en graf.
+
+* Man kan ikke differentiere en kurve, hvis den har et knæk i sig, eller hvis den ikke er kontinuerlig.
 
 ## Integralregning
 
