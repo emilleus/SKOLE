@@ -1,11 +1,19 @@
-# Ellære
+# Elektricitet
+
+## El-lære
+
+Coulomb = ladning
+
+## 
 
 Formler: 
-* $N$ = Coulomb, målt i C. strøm er hvor mange coulomb der løber igennem en ledning på 1 sekund. 
+* $Q$ = Coulomb, målt i C. også kendt som ladning.
+* $I$ = strøm, målt i Ampere.  
+* $t$ = tid, målt i sekunder.
 
 **strømstyrke:**
 
-$$I = \frac{Q}{Δt}$$
+$$I = \frac{Q}{t}$$
 **Spænding:**
 $$U = \frac{E}{Q}$$
 **Effekt:**
