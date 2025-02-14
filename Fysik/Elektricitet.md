@@ -9,6 +9,7 @@ Formler:
 * $E$ = Energi, målt i Joule. 
 * $U$ = Spænding, målt i Volt. 
 * $P$ = Effekt, målt i Watt. 
+* $R$ = Modstand, målt i Ohm. (Ω)
 
 **Strømstyrke:**
 
