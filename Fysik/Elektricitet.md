@@ -2,10 +2,6 @@
 
 ## El-lære
 
-Coulomb = ladning
-
-## 
-
 Formler: 
 * $Q$ = ladning, målt i Coulomb. Representeret af C. 
 * $I$ = strøm, målt i Ampere. 
