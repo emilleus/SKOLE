@@ -4,12 +4,13 @@
 
 Formler: 
 * $Q$ = ladning, målt i Coulomb. Representeret af C. 
-* $I$ = strøm, målt i Ampere. 
 * $t$ = tid, målt i sekunder.
 * $E$ = Energi, målt i Joule. 
-* $U$ = Spænding, målt i Volt. 
-* $P$ = Effekt, målt i Watt. 
+
+* $U$ = Spænding, målt i Volt.
+* $I$ = strøm, målt i Ampere. 
 * $R$ = Modstand, målt i Ohm. (Ω)
+* $P$ = Effekt, målt i Watt. 
 
 **Strømstyrke:**
 
