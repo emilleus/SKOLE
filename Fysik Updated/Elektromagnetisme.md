@@ -1,8 +1,5 @@
 # Elektromagnetisme
 
-## Ellære
-
-Formler: 
 * $Q$ = ladning, målt i Coulomb. Representeret af C. 
 * $t$ = tid, målt i sekunder.
 * $E$ = Energi, målt i Joule. 
@@ -11,6 +8,11 @@ Formler:
 * $I$ = strøm, målt i Ampere. 
 * $R$ = Modstand, målt i Ohm. (Ω)
 * $P$ = Effekt, målt i Watt. 
+
+
+## Ellære
+
+Formler: 
 
 **Strømstyrke:**
 
@@ -24,11 +26,16 @@ $$U = \frac{E}{Q}$$
 
 $$P = \frac{E}{t}$$
 
-## Joules lov: 
+### Joules lov: 
 $$P =R*I^2$$
 
 
 * Batteri bliver varmt, derfor er effektivitet ikke 100\%
+
+### Resistivitet
+
+### Resistansens temperaturafhængighed
+
 
 
 
