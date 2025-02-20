@@ -2,7 +2,9 @@ Skal indeholde:
 
 # Styringsteknik
 
-## Komponenter
+## Komponenter & Teknologier
+
+### IO-LINK
 
 ## Schematics
 
