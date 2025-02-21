@@ -27,19 +27,34 @@ $$U = \frac{E}{Q}$$
 $$P = \frac{E}{t}$$
 
 ### Joules lov: 
-$$P =R*I^2$$
+$$P =R*I^2=\frac{U^2}{R}$$
 
 
 * Batteri bliver varmt, derfor er effektivitet ikke 100\%
 
 ### Resistivitet
 
+Der gælder følgende sammenhæng mellem en leders længde $l$, tvæsnitsareal $A$, resistant $R$ & resistivitet $ρ$:
+
+* $ρ$ = materialets elektriske ledeevne.
+* $R$ = Resistans, samlede modstand. 
+
+$$R = ρ * \frac{l}{A}$$
+
 ### Resistansens temperaturafhængighed
+
+$$ρ_t=ρ_0*(1+a_0*t)$$
+
+$$R_t = R_0*(1+a_0*t)$$
 
 
 
 
 ## Strømkilder & Modeller
+
+### Model for strømkilde
+
+
 
 ## Vekselstrøm
 
