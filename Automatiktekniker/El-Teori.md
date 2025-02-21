@@ -62,6 +62,8 @@ $U$ = Klemspænding, samlet ydre spænding
 
 $I_B$ = strøm (belastningsstrøm)
 
+$R_T$ = totalmodstand, både indre og ydre.  
+
 **Formler:**
 $$E = U + U_i$$
 $$U_i = R_i * I_B$$
