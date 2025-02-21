@@ -58,8 +58,6 @@ $I_K$ = Kortslutningsstrøm
 
 $U_i$ = Indre spænding, Batteri
 
-$U_y$ = Ydre spænding, lygte
-
 $U$ = Klemspænding, samlet ydre spænding
 
 $I_B$ = strøm (belastningsstrøm)
@@ -67,7 +65,7 @@ $I_B$ = strøm (belastningsstrøm)
 **Formler:**
 $$E = U + U_i$$
 $$U_i = R_i * I_B$$
-$$U_i  =E - U_y$$
+$$U_i  =E - U$$
 $$U = R_y * I_B$$
 $$I_K = \frac{E}{U_i}$$
 $$U = E - U_i$$
