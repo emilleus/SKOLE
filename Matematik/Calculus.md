@@ -50,6 +50,25 @@ Man kan hurtigt se hvor en funktion er voksende og aftagende ved at ploppe den d
 * Man kan ikke differentiere en kurve, hvis den har et knæk i sig, eller hvis den ikke er kontinuerlig.
 * den differentierede funktion beskriver hvad hældningen på stamfunktionen er i det punkt. 
 
+### Sumreglen
+
+$$h(x)=f(x) \pm g(x) \rightarrow h'(x)=f'(x) \pm g'(x)$$
+
+### Konstantreglen
+
+$$g(x)=k*f(x) \rightarrow g'(x)=k*f'(x)$$
+
+### Produktreglen
+
+$$h(x)=f(x)*g(x) \rightarrow h'(x)=f'(x)*g(x)+f(x)*g'(x)$$
+
+* Man kan også huske reglen på at man skal "diffe, beholde + beholde, diffe"
+* Hvis man vil gange nogle specielle matematiske udtryk, såsom den naturlige logaritme, så skal man differentiere dem hver for sig, og så bruge produktreglen til sidst. 
+
+### Kvotientreglen
+
+$$h(x)=\frac{f(x)}{g(x)} \rightarrow h'(x) = \frac{f'(x)*g(x)-f(x)*g'(x)}{(g(x))^2}$$
+
 ## Integralregning
 
 ### Stamfunktion
