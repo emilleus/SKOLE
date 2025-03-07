@@ -117,7 +117,7 @@ $$x=\frac{-7\pm17}{6}=\begin{Bmatrix}\frac{-7+17}{6}=1,5 \\ \frac{-7-17}{6}=-4 \
 
 * det er det modsatte af at gange 2 paranteser med 2 værdier sammen. 
 
-* For at finde de 2 rødder til faktorisering, så skal man finde 2 tal som kan lægges sammen og give $b$, og skal kunne ganges for at give $c$. 
+* For at finde de 2 rødder til faktorisering, så skal man finde 2 tal som kan lægges sammen og give $b$, og skal kunne ganges for at give $ac$. 
 
 * Hvis man har positiv $b$ & positiv $c$, så er begge rødder positive. 
 * Hvis man har negativ $b$ & positiv $c$, så er begge rødder negative. 
