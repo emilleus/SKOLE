@@ -69,6 +69,24 @@ $$h(x)=f(x)*g(x) \rightarrow h'(x)=f'(x)*g(x)+f(x)*g'(x)$$
 
 $$h(x)=\frac{f(x)}{g(x)} \rightarrow h'(x) = \frac{f'(x)*g(x)-f(x)*g'(x)}{(g(x))^2}$$
 
+
+### Tangentens ligning
+
+hvis funktionen f er differentiabel i punktet $(x_0f(x_0))$ - dvs at der ikke er et knæk i det punkt, så er ligningen for tangenten i det punkt givet ved
+
+$$y = f(x_0)+f'(x_0)*(x-x_0)$$
+
+Man kan komme frem til den her formel ved at tage udgangspunkt i formlen for den rette linje, og erstatte de 2 faste punkter med 1 fast punkt $(x_0\space \& \space y_0)$, samt 2 dynamiske punkter (x & y). Derefter skal man bare isolere y, samt erstatte $a$ med $f'(x)$.
+
+### Grænseværdier
+
+det er det som jeg kender som limits
+
+$$\lim_{x\rightarrow a}$$
+
+
+
+
 ## Integralregning
 
 ### Stamfunktion
