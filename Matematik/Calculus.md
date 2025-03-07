@@ -82,8 +82,13 @@ Man kan komme frem til den her formel ved at tage udgangspunkt i formlen for den
 
 det er det som jeg kender som limits
 
-$$\lim_{x\rightarrow a}$$
+$$\lim_{x\to a}$$
+$$\lim_{x\to \infty}\frac{1}{x^2}=\infty$$
 
+grænseværdien kan være forskellige alt efter om man tager den fra venstre eller højre. det betyder at der også kan være 2 forskellige løsninger: 
+
+$$\lim_{x\to 4+}$$
+$$\lim_{x\to 4-}$$
 
 
 
@@ -96,7 +101,7 @@ man kan sige, at $F$ er en stamfunktion til $f$, hvis:
 $$F'(x)=f(x)$$
 
 #### Uendeligt mange stamfunktioner
-alle konstanter, dvs ting i funktionen uden et x, bliver glemt når man finder stamfunktionen. dvs at hvis man differentierer $x^2$ og $x^2 +4$, så får man det samme resultat, $2x$.
+alle konstanter, dvs ting i funktionen uden et x, bliver glemt når man finder stamfunktionen. dvs at hvis man differentierer $x^2$ og $x^2 +4$, så får man det samme resultat, $2x$. Derfor skriver man $+c$ for at vise de forskellige mulige stamfunktioner. 
 
 ### Ubestemt integral
 
