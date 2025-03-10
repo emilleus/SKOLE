@@ -43,12 +43,34 @@ $$I_B\le I_N\le I_Z$$
 * $I_B$ = Belastningsstrømmen - Hvor meget strøm motoren bruger. 
 * $I_N$ = Beskyttelsesudstyrets mærkestrøm - Automatsikrings størrelse, indstilling af termorelæ.
 * $I_Z$ = Kabel / lednings strømværdi. 
+* $U_N$ = Netspænding - 400V i danmark. 
+* $cosφ$ = cosinus phi, kan findes på motorens mærkeplade. 
+* $K_t$ = temperaturkorrektionsfaktor, skal findes i DSEN på side 263.
+*  $K_s$ = samlet fremføring, skal findes i DSEN på side 259. 
 
 ### OB-Dimensionering
 
+$$I_B=\frac{P}{\sqrt{3}*U_N*cosφ}$$
+
+$$I_N=I_B$$ 
+
+$$I_Z=\frac{I_B}{K_t*K_s}$$
+
+
+
 ### ΔU-Dimensionering
-$$R_l=\frac{R_{aflæst}*længden}{1000}$$
-$$ΔU_{maskine}=I_B*R_l*\sqrt{3}*cosφ$$
+$$R_{l(kabel)}=\frac{R_{aflæst}*længden}{1000}$$
+$$ΔU_{maskine}=I_B*R_{l(kabel)}*\sqrt{3}*cosφ$$
 $$ΔU_{maskine}\%=\frac{ΔU_{maskine}*100}{400}$$
 
 ### KB-dimensionering
+
+$$I_{K(min)}=230A?$$
+
+$$R_{l(net-min)}=\frac{U_N}{\sqrt{3}*I_{K(min)}}$$
+
+$$ΣR_l=R_{l(net-min)}+(R_{l(kabel)}*2*1,5)$$
+
+$$I_{K(min-motor)}=\frac{U_N}{\sqrt{3}*ΣR_l}$$
+
+$$T_k=\bigg(\frac{K*s}{I_{K(min-motor)}}\bigg)^2$$
