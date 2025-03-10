@@ -47,6 +47,7 @@ $$I_B\le I_N\le I_Z$$
 * $cosφ$ = cosinus phi, kan findes på motorens mærkeplade. 
 * $K_t$ = temperaturkorrektionsfaktor, skal findes i DSEN på side 263.
 *  $K_s$ = samlet fremføring, skal findes i DSEN på side 259. 
+* $P$ = effekt på motor, aflæst på mærkeplade.
 
 ### OB-Dimensionering
 
