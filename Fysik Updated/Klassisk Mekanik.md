@@ -95,13 +95,14 @@ $$F=ρ*V*g$$
 
 ## Opdrift 
 
-Archimedes lov:
-
 $$F_{op}=ρ_{væske}*V_{genstand}*g$$
+
+$$F_{total}=F_{bund}-F_{top}$$
 
 * densitet af forskellige stoffer på side 26. (lav skema)
 
 * Tryk på 0 = vacuum
+* i scenarier med opdrift, skal man finde opdriften først, finde tyngdekraften af emnet, og finde ud af hvilket tal er størst.
 
 ## Gasser
 
