@@ -17,6 +17,7 @@ $$p = \frac{F}{A}$$
 $$A = \frac{F}{p}$$
 $$F = A*p$$
 
+
 * Tryk angives i newton pr. $m^2$, som er pascal.
 $$1Pa=1N/m^2$$
 
