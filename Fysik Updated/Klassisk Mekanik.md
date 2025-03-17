@@ -1,5 +1,7 @@
 # Klassisk mekanik
-*Navne:**
+
+**Navne:**
+
 * $F$ = kraft, målt i newton ($N$)
 * $p$ = tryk, målt i pascal ($Pa$)
 * $A$ = areal, målt i kvadratmeter ($m^2$)
@@ -7,11 +9,49 @@
 * $g$ = tyngdeaccelerationen, konstant på 9,82 $N$/kg
 * $F_t$ = tyngdekraft, målt i newton ($N$)
 * $ρ$= densitet, målt i kg/$m^3$
-* $M$ = molarmasse, målt i mol/gc
+* $M$ = molarmasse, målt i mol/g
+* $n$ = stofmængde, målt i mol
+* $R$ = gaskonstanten
+* $T$ = Temperatur, målt i kelvin
+* $Δv$ = Hastighed, målt i m/s
+* $Δt$ = tid, målt i sekunder
+* $a$ = acceleration, målt i $m/s^2$
+* $s$ = strækning, målt i meter
+* $s_0$ = start i en strækning, målt i meter. (hvis man starter fra 100m, så er det en startcondition.)
+* $k$ = fjederkonstanten
 
 ## Kinematik
 
+### Formler:
+
+Formel for hastighed:
+$$v=\frac{Δs}{Δt}$$
+Formel for konstant hastighed:
+$$s=v*t+s_0$$
+Formel for Acceleration:
+$$a=\frac{Δv}{Δt}$$
+Formel for hastighed ved konstant acceleration:
+$$v=a*t+v_0$$
+Formel for strækning ved konstant acceleration:
+$$s=\frac{1}{2}*a*t^2+v_0*t+s_0$$
+
 ## Dynamik
+
+
+### Formler: 
+Tyngdekraft:
+$$F_t=m*g$$
+
+Normalkraft er lig med tyngdekraften:
+$$|\vec{F_t}|=|\vec{F_N}|$$
+Formler for resulterende kraft:
+$$\vec{F_{res}}=\vec{F_1}+\vec{F_2}$$
+$$\vec{F_{res}}=\begin{pmatrix}
+F_{res, x}\\
+F_{res, y}\\
+\end{pmatrix}$$
+
+$$F_μ=μ*F_n$$   
 
 ## Tryk & Opdrift
 
@@ -60,7 +100,20 @@ Archimedes lov:
 $$F_{op}=ρ_{væske}*V_{genstand}*g$$
 
 * densitet af forskellige stoffer på side 26. (lav skema)
+
+* Tryk på 0 = vacuum
+
 ## Gasser
+
+### Idealgasligningen
+$$p*V = n*R*T$$
+$$R=8,31\frac{Pa*m^3}{mol*K}$$
+* man skal bruge de forskellige SI-enheder for at den konstant $R$ dur. hvis man vil bruge andre enheder, så skal mna finde en anden konstant. 
+$$n = \frac{m}{M}$$
+
+### Boyle-mariottes lov
+
+### Delusaks (charles lov)
 
 ## Lyd
 
