@@ -103,7 +103,7 @@ $$F_{total}=F_{bund}-F_{top}$$
 
 * Tryk på 0 = vacuum
 * i scenarier med opdrift, skal man finde opdriften først, finde tyngdekraften af emnet, og finde ud af hvilket tal er størst.
-
+* opdriften findes ved at finde trykket af bunden samt toppen, og minusse trykket fra toppen fra bunden. 
 ## Gasser
 
 ### Idealgasligningen
