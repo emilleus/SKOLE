@@ -91,7 +91,6 @@ $$\lim_{x\to 4+}$$
 $$\lim_{x\to 4-}$$
 
 
-
 ## Integralregning
 
 ### Stamfunktion
