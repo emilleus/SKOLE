@@ -144,3 +144,6 @@ $$\int_a^b{f(x)dx}=[F(x)]^b_a=F(b)-F(a)$$
 $$Areal_{fg}=\int_a^b{(f(x)-g(x))dx}$$
 
 $a$ og $b$ er integrationsgrænser, og findes ved at sætte de 2 ligninger lig med hinanden, og så løse det som en andengradsligning.
+
+### U-substitution
+
