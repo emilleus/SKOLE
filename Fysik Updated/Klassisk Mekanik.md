@@ -114,7 +114,15 @@ $$n = \frac{m}{M}$$
 
 ### Boyle-mariottes lov
 
-### Delusaks (charles lov)
+$$p=konstant*V == p*V=constant$$
+
+$$p_1*V_1=p_2*V_2$$
+
+### Gay-Lussacs lov
+
+$$\frac{p}{T}=konstant$$
+
+$$\frac{p_1}{T_1}=\frac{p_2}{T_2}$$
 
 ## Lyd
 
