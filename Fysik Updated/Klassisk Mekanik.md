@@ -124,6 +124,8 @@ $$\frac{p}{T}=konstant$$
 
 $$\frac{p_1}{T_1}=\frac{p_2}{T_2}$$
 
+
+
 ## Lyd
 
 ## Arbejde & Energi
