@@ -147,3 +147,4 @@ $a$ og $b$ er integrationsgrænser, og findes ved at sætte de 2 ligninger lig m
 
 ### U-substitution
 
+
