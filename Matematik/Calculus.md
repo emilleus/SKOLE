@@ -69,6 +69,9 @@ $$h(x)=f(x)*g(x) \rightarrow h'(x)=f'(x)*g(x)+f(x)*g'(x)$$
 
 $$h(x)=\frac{f(x)}{g(x)} \rightarrow h'(x) = \frac{f'(x)*g(x)-f(x)*g'(x)}{(g(x))^2}$$
 
+### Sammensat funktion
+
+$$f(g(x))'=f'(g(x))*g'(x)$$
 
 ### Tangentens ligning
 
