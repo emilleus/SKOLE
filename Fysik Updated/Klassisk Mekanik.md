@@ -35,6 +35,12 @@ $$v=a*t+v_0$$
 Formel for strækning ved konstant acceleration:
 $$s=\frac{1}{2}*a*t^2+v_0*t+s_0$$
 
+### Bevægelse med konstant hastgihed
+
+### Bevægelse med konstant acceleration
+
+### Det skrå kast
+
 ## Dynamik
 
 
@@ -52,8 +58,6 @@ F_{res, y}\\
 \end{pmatrix}$$
 
 $$F_μ=μ*F_n$$   
-
-
 
 
 ## Lyd
