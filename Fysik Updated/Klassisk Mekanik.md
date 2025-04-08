@@ -22,24 +22,34 @@
 
 ## Kinematik
 
-### Formler:
-
+### Bevægelse med konstant hastighed
 Formel for hastighed:
 $$v=\frac{Δs}{Δt}$$
-Formel for konstant hastighed:
+Formel for strækning ved konstant hastighed:
 $$s=v*t+s_0$$
+### Bevægelse med konstant acceleration
 Formel for Acceleration:
 $$a=\frac{Δv}{Δt}$$
 Formel for hastighed ved konstant acceleration:
 $$v=a*t+v_0$$
 Formel for strækning ved konstant acceleration:
 $$s=\frac{1}{2}*a*t^2+v_0*t+s_0$$
-
-### Bevægelse med konstant hastgihed
-
-### Bevægelse med konstant acceleration
+Formel for Topfart ved konstant acceleration:
+$$v_x^2 =v_{x0}^2+2*a*(s-s_0)$$
 
 ### Det skrå kast
+Begyndelseshastighed i akserne:
+
+$$v_{0x}=v_0*cos(α)$$
+$$v_{0y}=v_0*sin(α)$$
+
+Bevægelse ud af akserne:
+
+$$y=-\frac{1}{2}*g*t^2+v_0*sin(α)*t+y_0$$
+$$x=v_0*cos(α)*t$$
+
+Hvis kastets start & slut er i samme højde, kan man finde slutpunktet:
+$$x_{slut}=\frac{v_0^2*sin(2α)}{g}$$
 
 ## Dynamik
 
