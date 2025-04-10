@@ -53,22 +53,36 @@ $$x_{slut}=\frac{v_0^2*sin(2α)}{g}$$
 
 ## Dynamik
 
+### Fjederkraft:
 
-### Formler: 
-Tyngdekraft:
-$$F_t=m*g$$
+$$F_{fj}=-k*x$$
 
-Normalkraft er lig med tyngdekraften:
-$$|\vec{F_t}|=|\vec{F_N}|$$
-Formler for resulterende kraft:
-$$\vec{F_{res}}=\vec{F_1}+\vec{F_2}$$
-$$\vec{F_{res}}=\begin{pmatrix}
-F_{res, x}\\
-F_{res, y}\\
-\end{pmatrix}$$
+### Snorkraft: 
 
-$$F_μ=μ*F_n$$   
+* Kraften som en snor trækker med, er den samme på hele snoren. Retningen af kraftpilen er parallel med snoren.
 
+### Opdrift: 
+
+$$F_{op}=m_v*g=ρ_v*V*g$$
+
+### Gnidningskraft ved tørre overflader:
+
+$$F_μ=μ*F_n$$
+
+### Gnidningskraft ved luft (luftmodstand):
+
+$$F_{luftmodstand}=\frac{1}{2}c_w*ρ*A*v^2$$
+
+### Newtons love: 
+
+1. (Inertiens lov) En genstand, der ikke er påvirket af en kraft, vil enten ligge stile eller bevæge sig med konstant hastighed langs en ret linje. 
+2. (Kraftloven) Den resulterende kraft $F_{res}$ er proportional med genstandens acceleration $a$ og 
+
+$$F_{res}=m*a$$
+
+hvor $m$ er legemets masse. 
+
+3. (Loven om aktion og reaktion) De kræfter, som to genstnade påvirker hinaden med, er lige store og modsat rettede. 
 
 ## Lyd
 
