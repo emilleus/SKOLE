@@ -117,7 +117,7 @@ $$\int{f(x)dx}=F(x)$$
 |$x$|$\frac{1}{2}x^2$|
 |$kx$|$\frac{k}{2}x^2$|
 |$k$|$kx$|
-|$x^n$|$\frac{1}{n+1}x^{n+1}$
+|$x^n$|$\frac{x^{n+1}}{n+1}$
 |$\frac{1}{x}$|$ln(\|x\|)$
 |$a^x$|$\frac{a^x}{ln(a)}$
 |$e^x$|$e^x$
@@ -150,4 +150,7 @@ $a$ og $b$ er integrationsgrænser, og findes ved at sætte de 2 ligninger lig m
 
 ### U-substitution
 
+* ryk så meget ud som muligt, og hold den så simpel som muligt. Hvis man kan rykke 1/2 ud, s å gør man det. 
 
+
+$$\frac{x^{n+1}}{n+1}$$
