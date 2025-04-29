@@ -48,3 +48,5 @@ Atom vil altid søge mod grundtilstanden
 Inderste skaller fyldt op. 
 
 $$E_n=-h*c*R*\frac{1}{n^2}$$
+
+Hvert grundstof har dets egen fingeraftryk af emissionsspektrummer. 
