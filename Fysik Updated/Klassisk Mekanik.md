@@ -1,3 +1,4 @@
+
 # Klassisk mekanik
 
 **Navne:**
@@ -50,6 +51,9 @@ $$x=v_0*cos(α)*t$$
 
 Hvis kastets start & slut er i samme højde, kan man finde slutpunktet:
 $$x_{slut}=\frac{v_0^2*sin(2α)}{g}$$
+
+Formel for Kinetisk energi i øjeblikket:
+$$E_{kin}=0,5mv^2$$
 
 ## Dynamik
 
