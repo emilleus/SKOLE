@@ -168,3 +168,9 @@ Vigtig måde at conceptualisere vektorer på, er at vektoren skalerer en enhedsv
 span er hvor meget af ens koordinatsystem man kan nå med sine basisvektorer. hvis ens basisvektorer i 2D peger i hver sin retning, så kan man nå hele koordinatsystemet. Hvis det peger i samme retning, kan man nå alle punkter på den linje. 
 
 Det fungerer også i 3D, hvor 2 vektorer bare giver dig en  plan i 3D space. 
+
+
+### Vektor Linear transformation
+
+* Vektor input til vektor output - grunden til man siger transformation er fordi man skal forestille sig bevægelse. 
+* En transformation er kun linear, hvis alle linjer ikke kurver, og hvis origin er det samme sted. Det holder linjer parallelle & med ens mellemrum.
