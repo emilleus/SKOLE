@@ -151,6 +151,8 @@ $a$ og $b$ er integrationsgrænser, og findes ved at sætte de 2 ligninger lig m
 ### U-substitution
 
 * ryk så meget ud som muligt, og hold den så simpel som muligt. Hvis man kan rykke 1/2 ud, s å gør man det. 
+* Hvis man har grænser, skal man gange sine grænser med ens valgte u. f.eks hvis u er lig med $x^2+1$, og ens grænse er $4$:
+$$u=x^2+1=4^2+1=17$$
 
 
 $$\frac{x^{n+1}}{n+1}$$

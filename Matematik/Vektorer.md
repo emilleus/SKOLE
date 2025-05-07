@@ -160,3 +160,7 @@ Vektorer er ortogonale, hvis deres indre produkt er nul.
 en komposant er en del af det, som man beskriver en vektor med. f.eks beskriver man ovenstående a med 2 komposanter: v og w.    
 
 ## Bevis af Projektion af vektor på vektor
+
+
+
+Vigtig måde at conceptualisere vektorer på, er at vektoren skalerer en enhedsvektor på hver akse. x-akse enhedsvektoren hedder i, og y-akse vektoren hedder j. det vil sige at en vektor med 2 på x & 3 på y vil skalere i med 2 og j med 3. De kaldes basisvektorer. 
