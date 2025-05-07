@@ -164,3 +164,7 @@ en komposant er en del af det, som man beskriver en vektor med. f.eks beskriver 
 
 
 Vigtig måde at conceptualisere vektorer på, er at vektoren skalerer en enhedsvektor på hver akse. x-akse enhedsvektoren hedder i, og y-akse vektoren hedder j. det vil sige at en vektor med 2 på x & 3 på y vil skalere i med 2 og j med 3. De kaldes basisvektorer. 
+
+span er hvor meget af ens koordinatsystem man kan nå med sine basisvektorer. hvis ens basisvektorer i 2D peger i hver sin retning, så kan man nå hele koordinatsystemet. Hvis det peger i samme retning, kan man nå alle punkter på den linje. 
+
+Det fungerer også i 3D, hvor 2 vektorer bare giver dig en  plan i 3D space. 
