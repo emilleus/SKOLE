@@ -174,3 +174,21 @@ Det fungerer også i 3D, hvor 2 vektorer bare giver dig en  plan i 3D space.
 
 * Vektor input til vektor output - grunden til man siger transformation er fordi man skal forestille sig bevægelse. 
 * En transformation er kun linear, hvis alle linjer ikke kurver, og hvis origin er det samme sted. Det holder linjer parallelle & med ens mellemrum.
+* Når man skal forestille sig hvordan en vektor ændrer sig med transformation, skal man kigge på hvordan $i$ & $j$ enhedsvektorerne ændrer sig, og gange de ændringer med vektorens $i$ og $j$ værdier. Hvis transformationen gør $i$ 3 gange større på x, og 2 gange større på y, og $j$ -2 gange mindre på x, og 4 gange større på y, ser det sådan her ud: 
+
+Når man skal transformere en vektor, så tager man og ganger x fra sin vektor med a og c, og man ganger y fra sin vektor med b & d i sin matrix. 
+
+$$\bigg[\begin{matrix}
+a&b\\
+c&d
+
+\end{matrix}\bigg]*\bigg[\begin{matrix}
+x\\
+y
+\end{matrix}\bigg]=x \bigg[\begin{matrix}
+a\\ c
+\end{matrix}\bigg]+y\bigg[\begin{matrix}
+b\\ d
+\end{matrix}\bigg]=\bigg[\begin{matrix}
+ax+by\\ cx+dy
+\end{matrix}\bigg]$$
