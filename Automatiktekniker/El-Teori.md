@@ -181,6 +181,12 @@ $$S = \sqrt{P^2 + Q_L^2}$$
 
 ## Motorer
 
+### Synkron Vs. Asynkron Motorer
+
+Synkron: Fungerer oftest ved at man har vekselstrøm i spolerne i statoren, som laver et roterende magnetfelt. I rotoren har man jævnstrøm, som laver et konstant magnetisk felt. På den måde synkroniserer det magnetiske felt på indersiden med det i statoren, og den har på den måde intet slip. 
+
+Asynkron: Fungerer oftest ved at man har vekselstrøm i spolerne i statoren, hvor magnetismen af "squirrel cagen" indeni rotoren så bliver trukket med rundt, og det skaber rotation. Det at den ikke synkroniserer rotoren betyder at der så vil være noget slip, og det slip skaber torquen. Siden den ikke synkroniserer, så SKAL der være et minimum af slip. 
+
 ### Motorplader
 
 ### 3 faset asynkron motor
