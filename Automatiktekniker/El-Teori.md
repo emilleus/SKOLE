@@ -187,6 +187,12 @@ Synkron: Fungerer oftest ved at man har vekselstrøm i spolerne i statoren, som 
 
 Asynkron: Fungerer oftest ved at man har vekselstrøm i spolerne i statoren, hvor magnetismen af "squirrel cagen" indeni rotoren så bliver trukket med rundt, og det skaber rotation. Det at den ikke synkroniserer rotoren betyder at der så vil være noget slip, og det slip skaber torquen. Siden den ikke synkroniserer, så SKAL der være et minimum af slip. 
 
+### Servo vs Stepper Motor
+
+Servomotor: Begrænset vinkel, men kan gå til en præcis vinkel. Præcisionen er afgjort af encoderens opløsning.
+
+Stepper motor: Ubegrænset vinkel, men arbejder i "steps", altså små skridt frem og tilbage, og ved ikke hvilken vinkel den har af sig selv. Præcisionen af afgjort af størrelsen af det mindste step i steppermotoren.
+
 ### Motorplader
 
 ### 3 faset asynkron motor
