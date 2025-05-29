@@ -93,3 +93,19 @@ hvor $m$ er legemets masse.
 
 
 ## Arbejde & Energi
+
+
+
+
+## Randoms
+
+### Forklaring af Torque (moment)
+
+Moment's si enhed er lig med newton gange meter (n*m).
+
+$$τ=N*m$$
+
+Det vil sige at hvis man vil finde ud af hvor meget kraft der skal applies ved en bestemt afstand for at opnå en bestemt torque, kan man omarrangere formlen: 
+
+$$N=\frac{τ}{m}$$
+$$m=\frac{τ}{N}$$
