@@ -1,6 +1,10 @@
 
 # Klassisk mekanik
 
+Når man tænker på kluassisk mekanik, er det vigtigt at tænke i vektorer - specifikt når man snakker bevægelse. 
+
+f..eks er kraften på en bold lig med tyngdekraft + kraft fra hånden = 0. Grunden til det er + og ikke - er fordi det er vektorer, som skal udligne hinanden (newtons 3. lov.)
+
 **Navne:**
 
 * $F$ = kraft, målt i newton ($N$)
